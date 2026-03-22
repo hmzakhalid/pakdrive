@@ -27,17 +27,11 @@
 - **Fully Offline** — No sign-up, no backend; all data in localStorage
 - **Mobile-First** — Responsive design with glassmorphism nav
 
-## Screenshots
-
-| Home | Quiz | Dashboard |
-|------|------|-----------|
-| _screenshots coming soon_ | _screenshots coming soon_ | _screenshots coming soon_ |
-
 ## Quick Start
 
 ```bash
 # Clone the repo
-git clone <repo-url>
+git clone https://github.com/hmzakhalid/pakdrive
 cd PakDrive
 
 # Install dependencies
