@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200" width="800" height="200">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#004c31"/>
+      <stop offset="100%" stop-color="#006644"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#a0f4c8"/>
+      <stop offset="100%" stop-color="#85d7ad"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="200" rx="16" fill="url(#bg)"/>
+  <!-- Road lines -->
+  <rect x="0" y="170" width="800" height="4" fill="#85d7ad" opacity="0.3"/>
+  <rect x="50" y="170" width="60" height="4" fill="#a0f4c8"/>
+  <rect x="160" y="170" width="60" height="4" fill="#a0f4c8"/>
+  <rect x="270" y="170" width="60" height="4" fill="#a0f4c8"/>
+  <rect x="380" y="170" width="60" height="4" fill="#a0f4c8"/>
+  <rect x="490" y="170" width="60" height="4" fill="#a0f4c8"/>
+  <rect x="600" y="170" width="60" height="4" fill="#a0f4c8"/>
+  <rect x="710" y="170" width="60" height="4" fill="#a0f4c8"/>
+  <!-- Steering wheel icon -->
+  <circle cx="120" cy="90" r="40" stroke="#a0f4c8" stroke-width="3" fill="none"/>
+  <circle cx="120" cy="90" r="12" stroke="#a0f4c8" stroke-width="3" fill="none"/>
+  <line x1="120" y1="54" x2="120" y2="78" stroke="#a0f4c8" stroke-width="3" stroke-linecap="round"/>
+  <line x1="86" y1="108" x2="108" y2="96" stroke="#a0f4c8" stroke-width="3" stroke-linecap="round"/>
+  <line x1="154" y1="108" x2="132" y2="96" stroke="#a0f4c8" stroke-width="3" stroke-linecap="round"/>
+  <!-- Title -->
+  <text x="200" y="80" font-family="sans-serif" font-weight="800" font-size="48" fill="#ffffff">PakDrive</text>
+  <!-- Subtitle -->
+  <text x="200" y="115" font-family="sans-serif" font-weight="400" font-size="20" fill="#a0f4c8">Master Your Pakistan Driving License Test</text>
+  <!-- Badges -->
+  <rect x="200" y="130" width="120" height="28" rx="14" fill="url(#accent)"/>
+  <text x="260" y="149" font-family="sans-serif" font-weight="700" font-size="13" fill="#004c31" text-anchor="middle">350 MCQs</text>
+  <rect x="330" y="130" width="100" height="28" rx="14" fill="url(#accent)"/>
+  <text x="380" y="149" font-family="sans-serif" font-weight="700" font-size="13" fill="#004c31" text-anchor="middle">58 Signs</text>
+  <rect x="440" y="130" width="80" height="28" rx="14" fill="url(#accent)"/>
+  <text x="480" y="149" font-family="sans-serif" font-weight="700" font-size="13" fill="#004c31" text-anchor="middle">Free</text>
+</svg>

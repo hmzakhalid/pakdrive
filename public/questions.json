@@ -1,0 +1,3910 @@
+[
+  {
+    "id": 1,
+    "question": "The triangular sign in the picture means",
+    "options": {
+      "a": "A warning sign",
+      "b": "A prohibitive sign",
+      "c": "An indicative sign",
+      "d": "A directional sign"
+    },
+    "correct_option": "a",
+    "image": "/images/q1.jpg"
+  },
+  {
+    "id": 2,
+    "question": "The sign in the picture means",
+    "options": {
+      "a": "Downhill road",
+      "b": "Uphill road",
+      "c": "Steep downhill road",
+      "d": "Steep uphill road"
+    },
+    "correct_option": "d",
+    "image": "/images/q2.jpg"
+  },
+  {
+    "id": 3,
+    "question": "The sign in the picture means",
+    "options": {
+      "a": "Steep downhill road",
+      "b": "Sliding",
+      "c": "Downhill road",
+      "d": "Steep uphill road"
+    },
+    "correct_option": "a",
+    "image": "/images/q3.jpg"
+  },
+  {
+    "id": 4,
+    "question": "The sign in the picture means",
+    "options": {
+      "a": "Carriageway narrow ahead",
+      "b": "Road narrows on the left side",
+      "c": "Road narrows on the right side",
+      "d": "Reduce speed"
+    },
+    "correct_option": "a",
+    "image": "/images/q4.jpg"
+  },
+  {
+    "id": 5,
+    "question": "The sign in the picture means",
+    "options": {
+      "a": "Watch for falling rocks",
+      "b": "Dangerous hillside road",
+      "c": "Mind downhill sliding",
+      "d": "Steep downhill road"
+    },
+    "correct_option": "a",
+    "image": "/images/q5.jpg"
+  },
+  {
+    "id": 6,
+    "question": "The sign in the picture means",
+    "options": {
+      "a": "Mind danger",
+      "b": "Mind side wind",
+      "c": "Watch for falling rocks",
+      "d": "Dangerous hillside road"
+    },
+    "correct_option": "b",
+    "image": "/images/q6.jpg"
+  },
+  {
+    "id": 7,
+    "question": "The sign in the picture means",
+    "options": {
+      "a": "Tunnel",
+      "b": "Culvert bridge",
+      "c": "Hump bridge",
+      "d": "Overflowing bridge"
+    },
+    "correct_option": "c",
+    "image": "/images/q7.jpg"
+  },
+  {
+    "id": 8,
+    "question": "The sign in the picture means",
+    "options": {
+      "a": "Dangerous hillside road",
+      "b": "Watch for pedestrians",
+      "c": "Watch for children",
+      "d": "Men at work"
+    },
+    "correct_option": "d",
+    "image": "/images/q8.jpg"
+  },
+  {
+    "id": 9,
+    "question": "The sign in the picture means",
+    "options": {
+      "a": "Hump road",
+      "b": "House",
+      "c": "Tunnel",
+      "d": "Village"
+    },
+    "correct_option": "c",
+    "image": "/images/q9.jpg"
+  },
+  {
+    "id": 10,
+    "question": "The sign in the picture means",
+    "options": {
+      "a": "Accident ahead",
+      "b": "No passing",
+      "c": "Stop",
+      "d": "Any other danger"
+    },
+    "correct_option": "d",
+    "image": "/images/q10.jpg"
+  },
+  {
+    "id": 11,
+    "question": "The sign in the picture means",
+    "options": {
+      "a": "Turn left or turn right",
+      "b": "No passing",
+      "c": "Two-way traffic",
+      "d": "Minor cross road ahead"
+    },
+    "correct_option": "d",
+    "image": "/images/q11.jpg"
+  },
+  {
+    "id": 12,
+    "question": "The sign in the picture means",
+    "options": {
+      "a": "Uneven road",
+      "b": "Hump bridge",
+      "c": "Tunnel",
+      "d": "Embankment road"
+    },
+    "correct_option": "a",
+    "image": "/images/q12.jpg"
+  },
+  {
+    "id": 13,
+    "question": "The sign in the picture means",
+    "options": {
+      "a": "Animal passing",
+      "b": "Cattle crossing",
+      "c": "Farm house",
+      "d": "Animal-driven cart"
+    },
+    "correct_option": "b",
+    "image": "/images/q13.jpg"
+  },
+  {
+    "id": 14,
+    "question": "The sign in the picture means",
+    "options": {
+      "a": "Bridge widens",
+      "b": "Bridge widens on both sides",
+      "c": "Narrow bridge",
+      "d": "Hump bridge"
+    },
+    "correct_option": "c",
+    "image": "/images/q14.jpg"
+  },
+  {
+    "id": 15,
+    "question": "The sign in the picture means",
+    "options": {
+      "a": "No passing through level crossing",
+      "b": "Crosswalk",
+      "c": "Level crossing without gate",
+      "d": "Level crossing with gate"
+    },
+    "correct_option": "d",
+    "image": "/images/q15.jpg"
+  },
+  {
+    "id": 16,
+    "question": "The sign in the picture means",
+    "options": {
+      "a": "Level crossing without gate",
+      "b": "No passing",
+      "c": "No passing through level crossing",
+      "d": "Level crossing with gate"
+    },
+    "correct_option": "a",
+    "image": "/images/q16.jpg"
+  },
+  {
+    "id": 17,
+    "question": "The sign in the picture means",
+    "options": {
+      "a": "No passing for bicycles",
+      "b": "Cyclists",
+      "c": "Bicycle parking",
+      "d": "No entry for bicycles"
+    },
+    "correct_option": "b",
+    "image": "/images/q17.jpg"
+  },
+  {
+    "id": 18,
+    "question": "The sign in the picture means",
+    "options": {
+      "a": "Bypassing from the left side",
+      "b": "Dual carriageway ahead",
+      "c": "Bypassing from the right side",
+      "d": "No bypassing"
+    },
+    "correct_option": "b",
+    "image": "/images/q18.jpg"
+  },
+  {
+    "id": 19,
+    "question": "The sign in the picture means",
+    "options": {
+      "a": "Right turn is allowed",
+      "b": "Changing to the right lane is prohibited",
+      "c": "U turn is prohibited",
+      "d": "Right turn is prohibited"
+    },
+    "correct_option": "d",
+    "image": "/images/q19.jpg"
+  },
+  {
+    "id": 20,
+    "question": "The sign in the picture means",
+    "options": {
+      "a": "No U turn",
+      "b": "No left turn",
+      "c": "U turn is allowed",
+      "d": "Left turn is allowed"
+    },
+    "correct_option": "a",
+    "image": "/images/q20.jpg"
+  },
+  {
+    "id": 21,
+    "question": "The sign in the picture means",
+    "options": {
+      "a": "No road borrowing",
+      "b": "No overtaking",
+      "c": "Overtaking ban is lifted",
+      "d": "Overtaking is allowed"
+    },
+    "correct_option": "b",
+    "image": "/images/q21.jpg"
+  },
+  {
+    "id": 22,
+    "question": "The sign in the picture means",
+    "options": {
+      "a": "Left turn is allowed",
+      "b": "No left turn",
+      "c": "Left U turn is allowed",
+      "d": "No lane changing to the left side"
+    },
+    "correct_option": "b",
+    "image": "/images/q22.jpg"
+  },
+  {
+    "id": 23,
+    "question": "The sign in the picture means",
+    "options": {
+      "a": "Horn ban is lifted",
+      "b": "Horn is allowed",
+      "c": "Radio listening is prohibited",
+      "d": "Use of horn prohibited"
+    },
+    "correct_option": "d",
+    "image": "/images/q23.jpg"
+  },
+  {
+    "id": 24,
+    "question": "The sign in the picture means",
+    "options": {
+      "a": "Width is limited to 3m",
+      "b": "Length is limited to 3m",
+      "c": "Width limit is lifted",
+      "d": "Bridge width is limited"
+    },
+    "correct_option": "a",
+    "image": "/images/q24.jpg"
+  },
+  {
+    "id": 25,
+    "question": "The sign in the picture means",
+    "options": {
+      "a": "Vehicle distance is limited",
+      "b": "Height is limited to 3.5m",
+      "c": "Width is limited to 3.5m",
+      "d": "Length limit is lifted"
+    },
+    "correct_option": "b",
+    "image": "/images/q25.jpg"
+  },
+  {
+    "id": 26,
+    "question": "The sign in the picture means",
+    "options": {
+      "a": "Weight is limited",
+      "b": "Road number is 40",
+      "c": "Maximum speed limit is 40 KM",
+      "d": "40 KM speed limit is lifted"
+    },
+    "correct_option": "c",
+    "image": "/images/q26.jpg"
+  },
+  {
+    "id": 27,
+    "question": "The sign in the picture means",
+    "options": {
+      "a": "Weight is limited",
+      "b": "Road number is 40",
+      "c": "Speed is limited to 40 KM",
+      "d": "40 KM speed restriction is lifted"
+    },
+    "correct_option": "d",
+    "image": "/images/q27.jpg"
+  },
+  {
+    "id": 28,
+    "question": "The sign in the picture means",
+    "options": {
+      "a": "Axle weight is limited",
+      "b": "Length is limited to 6m",
+      "c": "No entry for vehicles exceeding 6 ton on one axle",
+      "d": "Width is limited"
+    },
+    "correct_option": "c",
+    "image": "/images/q28.jpg"
+  },
+  {
+    "id": 29,
+    "question": "The sign in the picture means",
+    "options": {
+      "a": "No entry for large buses",
+      "b": "No entry for HTV",
+      "c": "No entry for motor vehicle",
+      "d": "No entry for LTV"
+    },
+    "correct_option": "c",
+    "image": "/images/q29.jpg"
+  },
+  {
+    "id": 30,
+    "question": "The sign in the picture means",
+    "options": {
+      "a": "No entry for large buses",
+      "b": "No entry for motor car",
+      "c": "No entry for goods vehicles",
+      "d": "No entry for LTV"
+    },
+    "correct_option": "c",
+    "image": "/images/q30.jpg"
+  },
+  {
+    "id": 31,
+    "question": "The sign in the picture means all vehicles are allowed only to",
+    "options": {
+      "a": "Go straight",
+      "b": "Entry is prohibited",
+      "c": "Go one-way",
+      "d": "Stop"
+    },
+    "correct_option": "a",
+    "image": "/images/q31.jpg"
+  },
+  {
+    "id": 32,
+    "question": "The sign in the picture means all vehicles are allowed only to",
+    "options": {
+      "a": "Turn right",
+      "b": "Go on the right side",
+      "c": "Drive on the left side",
+      "d": "Turn left"
+    },
+    "correct_option": "d",
+    "image": "/images/q32.jpg"
+  },
+  {
+    "id": 33,
+    "question": "The sign in the picture means all vehicles are allowed only to",
+    "options": {
+      "a": "Turn right",
+      "b": "Go one-way",
+      "c": "Drive on the right side",
+      "d": "Go on the left side"
+    },
+    "correct_option": "a",
+    "image": "/images/q33.jpg"
+  },
+  {
+    "id": 34,
+    "question": "The sign in the picture means all vehicles are allowed only to",
+    "options": {
+      "a": "Go straight or turn right",
+      "b": "Go straight or turn left",
+      "c": "Go along the lanes",
+      "d": "Turn left ahead"
+    },
+    "correct_option": "b",
+    "image": "/images/q34.jpg"
+  },
+  {
+    "id": 35,
+    "question": "The sign in the picture means all vehicles are allowed only to",
+    "options": {
+      "a": "Go straight",
+      "b": "Go along the lanes",
+      "c": "Keep to the left",
+      "d": "Turn left"
+    },
+    "correct_option": "c",
+    "image": "/images/q35.jpg"
+  },
+  {
+    "id": 36,
+    "question": "The sign in the picture means all vehicles are",
+    "options": {
+      "a": "Prohibited from turning left",
+      "b": "Prohibited from turning right",
+      "c": "U turn prohibited",
+      "d": "Not allowed to enter"
+    },
+    "correct_option": "d",
+    "image": "/images/q36.jpg"
+  },
+  {
+    "id": 37,
+    "question": "The sign in the picture means all vehicles are allowed only to",
+    "options": {
+      "a": "Keep to the right",
+      "b": "Stop on the right side",
+      "c": "Turn right",
+      "d": "Go on the left side"
+    },
+    "correct_option": "a",
+    "image": "/images/q37.jpg"
+  },
+  {
+    "id": 38,
+    "question": "The sign in the picture means this lane is",
+    "options": {
+      "a": "A no entry lane",
+      "b": "A straight-going lane",
+      "c": "A one-way lane",
+      "d": "A fast lane"
+    },
+    "correct_option": "b",
+    "image": "/images/q38.jpg"
+  },
+  {
+    "id": 39,
+    "question": "The sign in the picture means these lanes are for",
+    "options": {
+      "a": "Go straight and turn left",
+      "b": "Take turn and go left",
+      "c": "Adopt the appropriate lane",
+      "d": "Go straight and turn right"
+    },
+    "correct_option": "c",
+    "image": "/images/q39.jpg"
+  },
+  {
+    "id": 40,
+    "question": "The sign in the picture means this lane is for",
+    "options": {
+      "a": "Go straight or turn right",
+      "b": "Turn right ahead",
+      "c": "Go straight or turn left",
+      "d": "Turn left ahead"
+    },
+    "correct_option": "a",
+    "image": "/images/q40.jpg"
+  },
+  {
+    "id": 41,
+    "question": "The sign in the picture means this place is",
+    "options": {
+      "a": "Student's passage",
+      "b": "Pedestrian street",
+      "c": "Pedestrian crossing",
+      "d": "Children's passage"
+    },
+    "correct_option": "c",
+    "image": "/images/q41.jpg"
+  },
+  {
+    "id": 42,
+    "question": "The sign in the picture means",
+    "options": {
+      "a": "A car park",
+      "b": "A service area",
+      "c": "No parking",
+      "d": "A dead-end road"
+    },
+    "correct_option": "a",
+    "image": "/images/q42.jpg"
+  },
+  {
+    "id": 43,
+    "question": "The sign in the picture means",
+    "options": {
+      "a": "A T-shaped intersection",
+      "b": "A dead-end road",
+      "c": "Intersection ahead",
+      "d": "Parking area"
+    },
+    "correct_option": "b",
+    "image": "/images/q43.jpg"
+  },
+  {
+    "id": 44,
+    "question": "The picture is a sign for children crossing",
+    "options": {
+      "a": "Right",
+      "b": "Wrong",
+      "c": "I don't know",
+      "d": "None of these"
+    },
+    "correct_option": "a",
+    "image": "/images/q44.jpg"
+  },
+  {
+    "id": 45,
+    "question": "The sign in the picture means all vehicles must turn right",
+    "options": {
+      "a": "Wrong",
+      "b": "True",
+      "c": "None of the above",
+      "d": "I don't know"
+    },
+    "correct_option": "a",
+    "image": "/images/q45.jpg"
+  },
+  {
+    "id": 46,
+    "question": "The white line in the picture means",
+    "options": {
+      "a": "The border line of a carriageway",
+      "b": "The line prohibiting lane change",
+      "c": "Central line",
+      "d": "Lane dividing line of the road"
+    },
+    "correct_option": "d",
+    "image": "/images/q46.jpg"
+  },
+  {
+    "id": 47,
+    "question": "The yellow marking in the picture means",
+    "options": {
+      "a": "Divide the carriageway in the same direction",
+      "b": "Indicate the border of a road",
+      "c": "Allow the vehicles to cross the line for overtaking",
+      "d": "Prohibit the vehicles from crossing the line"
+    },
+    "correct_option": "d",
+    "image": "/images/q47.jpg"
+  },
+  {
+    "id": 48,
+    "question": "The white line highlighted with an arrow in the picture means",
+    "options": {
+      "a": "A stop line",
+      "b": "A yield line",
+      "c": "A slowdown and yield line",
+      "d": "A marking for a prohibitive area"
+    },
+    "correct_option": "a",
+    "image": "/images/q48.jpg"
+  },
+  {
+    "id": 49,
+    "question": "The road marking in the picture means",
+    "options": {
+      "a": "The central line of a road",
+      "b": "A lane-dividing line",
+      "c": "A crosswalk line",
+      "d": "Overtaking allowed if no vehicle approaching from the opposite direction"
+    },
+    "correct_option": "d",
+    "image": "/images/q49.jpg"
+  },
+  {
+    "id": 50,
+    "question": "The road marking in the picture means",
+    "options": {
+      "a": "The central line of a road",
+      "b": "A lane-dividing line",
+      "c": "Overtaking prohibited",
+      "d": "Overtaking allowed"
+    },
+    "correct_option": "c",
+    "image": "/images/q50.jpg"
+  },
+  {
+    "id": 51,
+    "question": "The road marking in the picture means",
+    "options": {
+      "a": "Centre line no overtaking zone",
+      "b": "A lane-dividing line",
+      "c": "A crosswalk line",
+      "d": "Overtaking allowed if no vehicle approaching from the opposite direction"
+    },
+    "correct_option": "a",
+    "image": "/images/q51.jpg"
+  },
+  {
+    "id": 52,
+    "question": "The road marking in the picture means",
+    "options": {
+      "a": "Stop line",
+      "b": "Centre line",
+      "c": "A crosswalk line",
+      "d": "Crossing the line is prohibited"
+    },
+    "correct_option": "b",
+    "image": "/images/q52.jpg"
+  },
+  {
+    "id": 53,
+    "question": "Stopping vehicle on yellow junction box in the picture is not allowed",
+    "options": {
+      "a": "Right",
+      "b": "None of these",
+      "c": "Wrong",
+      "d": "I don't know"
+    },
+    "correct_option": "a",
+    "image": "/images/q53.jpg"
+  },
+  {
+    "id": 54,
+    "question": "The hand signal of the traffic police in the picture means",
+    "options": {
+      "a": "An auxiliary signal for stopping",
+      "b": "A signal for stopping traffic coming from the front",
+      "c": "A signal for turning",
+      "d": "A signal for pulling over without stopping"
+    },
+    "correct_option": "b",
+    "image": "/images/q54.jpg"
+  },
+  {
+    "id": 55,
+    "question": "The hand signal of the traffic police in the picture is a stop signal for traffic approaching from the rear",
+    "options": {
+      "a": "Right",
+      "b": "Wrong",
+      "c": "I don't know",
+      "d": "None of the above"
+    },
+    "correct_option": "a",
+    "image": "/images/q55.jpg"
+  },
+  {
+    "id": 56,
+    "question": "What does this sign mean",
+    "options": {
+      "a": "One line",
+      "b": "Exit from motorway after 300 meters",
+      "c": "Three lines",
+      "d": "Three lines between road"
+    },
+    "correct_option": "b",
+    "image": "/images/q56.jpg"
+  },
+  {
+    "id": 57,
+    "question": "What does this sign mean",
+    "options": {
+      "a": "Bridge",
+      "b": "Start of motorway",
+      "c": "Busy dual carriageway",
+      "d": "None of above"
+    },
+    "correct_option": "b",
+    "image": "/images/q57.jpg"
+  },
+  {
+    "id": 58,
+    "question": "Red light of traffic signal means?",
+    "options": {
+      "a": "Stop",
+      "b": "Don't stop",
+      "c": "I don't know",
+      "d": "None of them"
+    },
+    "correct_option": "a",
+    "image": "/images/q58.jpg"
+  },
+  {
+    "id": 59,
+    "question": "Right of way in roundabout is for",
+    "options": {
+      "a": "Who is coming from right side",
+      "b": "Already in roundabout",
+      "c": "Both A and B",
+      "d": "None of these"
+    },
+    "correct_option": "c"
+  },
+  {
+    "id": 60,
+    "question": "How can you use the engine of your vehicle to control your speed?",
+    "options": {
+      "a": "By changing to a lower gear",
+      "b": "By selecting reverse gear",
+      "c": "By changing to a higher gear",
+      "d": "By selecting neutral"
+    },
+    "correct_option": "a"
+  },
+  {
+    "id": 61,
+    "question": "What should always be kept clean of your vehicle?",
+    "options": {
+      "a": "Lights",
+      "b": "Reflectors",
+      "c": "Windows",
+      "d": "All of above"
+    },
+    "correct_option": "d"
+  },
+  {
+    "id": 62,
+    "question": "What is your first responsibility after being involved in an accident?",
+    "options": {
+      "a": "Stop",
+      "b": "Run",
+      "c": "Panic",
+      "d": "All of above"
+    },
+    "correct_option": "a"
+  },
+  {
+    "id": 63,
+    "question": "Where would parking obscure the view of others?",
+    "options": {
+      "a": "At junctions",
+      "b": "On a bend or brow of a hill",
+      "c": "On the approach side of a zebra crossing",
+      "d": "All of above"
+    },
+    "correct_option": "d"
+  },
+  {
+    "id": 64,
+    "question": "To keep your vehicle in legal condition, what should you pay particular attention to?",
+    "options": {
+      "a": "Brakes",
+      "b": "Lights",
+      "c": "Tires",
+      "d": "All of above"
+    },
+    "correct_option": "d"
+  },
+  {
+    "id": 65,
+    "question": "Airbag does not open in accident when?",
+    "options": {
+      "a": "Low fuel in fuel tank",
+      "b": "Battery is weak",
+      "c": "Driver has not fastened seat belt",
+      "d": "None of above"
+    },
+    "correct_option": "c"
+  },
+  {
+    "id": 66,
+    "question": "Speed limit in populated area is?",
+    "options": {
+      "a": "100 km/hr",
+      "b": "80 km/hr",
+      "c": "70 km/hr",
+      "d": "50 km/hr"
+    },
+    "correct_option": "c"
+  },
+  {
+    "id": 67,
+    "question": "Speed limit for LTV on motorways is?",
+    "options": {
+      "a": "100 km/hr",
+      "b": "80 km/hr",
+      "c": "70 km/hr",
+      "d": "120 km/hr"
+    },
+    "correct_option": "d"
+  },
+  {
+    "id": 68,
+    "question": "Speed limit near mosque and school is?",
+    "options": {
+      "a": "40 km/hr",
+      "b": "80 km/hr",
+      "c": "70 km/hr",
+      "d": "50 km/hr"
+    },
+    "correct_option": "a"
+  },
+  {
+    "id": 69,
+    "question": "Fastening of seat belt is",
+    "options": {
+      "a": "Mandatory",
+      "b": "Regulatory",
+      "c": "Fashion",
+      "d": "Show off"
+    },
+    "correct_option": "a"
+  },
+  {
+    "id": 70,
+    "question": "You are at a road junction, turning into a minor road. There are pedestrians crossing the minor road. What should you do?",
+    "options": {
+      "a": "Stop and wave the pedestrians across",
+      "b": "Sound your horn to let the pedestrians know that you are there",
+      "c": "Give way to the pedestrians who are already crossing",
+      "d": "Carry on; the pedestrians should give way"
+    },
+    "correct_option": "c"
+  },
+  {
+    "id": 71,
+    "question": "There has been an accident and driver is suffering from shock. What should you do?",
+    "options": {
+      "a": "Help him and never let him alone",
+      "b": "Offer him water",
+      "c": "Offer him food",
+      "d": "Offer him a cigarette"
+    },
+    "correct_option": "a"
+  },
+  {
+    "id": 72,
+    "question": "A driver suddenly pulls out of a side road in front of you, then what should you do?",
+    "options": {
+      "a": "Apply brakes hardly",
+      "b": "Will ignore his fault and follow the law in good manner",
+      "c": "Dipped headlight in anger",
+      "d": "Honking angrily"
+    },
+    "correct_option": "b"
+  },
+  {
+    "id": 73,
+    "question": "You are carrying a child in your car. He is under three years of age. Which of these is a suitable restraint?",
+    "options": {
+      "a": "A child seat",
+      "b": "An adult holding a child",
+      "c": "An adult seat belt",
+      "d": "An adult seat"
+    },
+    "correct_option": "a"
+  },
+  {
+    "id": 74,
+    "question": "Why is it more difficult to overtake a longer vehicle than a car?",
+    "options": {
+      "a": "It takes much time to overtake it",
+      "b": "They may suddenly pull up",
+      "c": "Their brakes are not as good",
+      "d": "They climb hills more slowly"
+    },
+    "correct_option": "a"
+  },
+  {
+    "id": 75,
+    "question": "The fluid level in your battery is low. What should you top it up with?",
+    "options": {
+      "a": "Battery acid",
+      "b": "Distilled water",
+      "c": "Engine oil",
+      "d": "Engine coolant"
+    },
+    "correct_option": "a"
+  },
+  {
+    "id": 76,
+    "question": "When driving in fog, which of these are correct?",
+    "options": {
+      "a": "Continuous usage of headlights",
+      "b": "Near central line",
+      "c": "Spend more time in travel",
+      "d": "Move slowly"
+    },
+    "correct_option": "d"
+  },
+  {
+    "id": 77,
+    "question": "You are about to overtake a large vehicle from reasonable distance and suddenly a car fills the gap. What should you do?",
+    "options": {
+      "a": "Sound your horn",
+      "b": "Drop back further",
+      "c": "Flash your headlights",
+      "d": "Start to overtake"
+    },
+    "correct_option": "b"
+  },
+  {
+    "id": 78,
+    "question": "You are turning left into a side road. What hazards should you be especially aware of?",
+    "options": {
+      "a": "One way traffic",
+      "b": "Pedestrians",
+      "c": "Traffic congestion",
+      "d": "Parked vehicles"
+    },
+    "correct_option": "b"
+  },
+  {
+    "id": 79,
+    "question": "On a long motorway journey boredom can cause you to feel sleepy. You should",
+    "options": {
+      "a": "Leave motorway and find better place for stopping",
+      "b": "Look for a landscape",
+      "c": "Drive speedily to finish travel",
+      "d": "Make sure entrance of fresh air in the car"
+    },
+    "correct_option": "d"
+  },
+  {
+    "id": 80,
+    "question": "You are following a vehicle on a wet road. You should leave a time gap of at least",
+    "options": {
+      "a": "One second",
+      "b": "Two seconds",
+      "c": "Three seconds",
+      "d": "Four seconds"
+    },
+    "correct_option": "d"
+  },
+  {
+    "id": 81,
+    "question": "You are travelling in very heavy rain. Your overall stopping distance is likely to be",
+    "options": {
+      "a": "Doubled",
+      "b": "Halved",
+      "c": "Up to ten times greater",
+      "d": "Not different"
+    },
+    "correct_option": "a"
+  },
+  {
+    "id": 82,
+    "question": "You are intending to leave the motorway at the next exit. Before you reach the exit you should normally position your vehicle",
+    "options": {
+      "a": "In the middle lane",
+      "b": "In the left-hand lane",
+      "c": "On the hard shoulder",
+      "d": "In any lane"
+    },
+    "correct_option": "b"
+  },
+  {
+    "id": 83,
+    "question": "When should you not drive?",
+    "options": {
+      "a": "While under the influence of alcohol or medicines",
+      "b": "When tired or drowsy",
+      "c": "Both A and B",
+      "d": "I don't know"
+    },
+    "correct_option": "c"
+  },
+  {
+    "id": 84,
+    "question": "What is the rule about passing near animals on the road?",
+    "options": {
+      "a": "Reduce speed",
+      "b": "Give some time",
+      "c": "Don't honk",
+      "d": "All of the above"
+    },
+    "correct_option": "d"
+  },
+  {
+    "id": 85,
+    "question": "Can you reverse from a minor road onto a major road?",
+    "options": {
+      "a": "No",
+      "b": "Yes",
+      "c": "Don't know",
+      "d": "None of the above"
+    },
+    "correct_option": "a"
+  },
+  {
+    "id": 86,
+    "question": "Who can't use a motorway?",
+    "options": {
+      "a": "The cyclists",
+      "b": "The pedestrians",
+      "c": "Animal driven carts",
+      "d": "All of above"
+    },
+    "correct_option": "d"
+  },
+  {
+    "id": 87,
+    "question": "What does a broken white line mean?",
+    "options": {
+      "a": "A broken white line divides the centre of the road and should only be crossed if it is safe to do so",
+      "b": "Observe the speed limit",
+      "c": "All of the above",
+      "d": "I don't know"
+    },
+    "correct_option": "a"
+  },
+  {
+    "id": 88,
+    "question": "Name a place where you should not park a vehicle",
+    "options": {
+      "a": "On a side of the main road",
+      "b": "Near a public park",
+      "c": "Corners of the road",
+      "d": "All of above"
+    },
+    "correct_option": "d"
+  },
+  {
+    "id": 89,
+    "question": "What is the hard shoulder used for?",
+    "options": {
+      "a": "For resting",
+      "b": "For using mobile phone",
+      "c": "Breakdown of a vehicle",
+      "d": "All of above"
+    },
+    "correct_option": "c"
+  },
+  {
+    "id": 90,
+    "question": "What is the rule for entering in roundabout?",
+    "options": {
+      "a": "Give way to traffic on your immediate right side",
+      "b": "Give way to traffic on your left side",
+      "c": "Follow the traffic in speed",
+      "d": "All of above"
+    },
+    "correct_option": "a"
+  },
+  {
+    "id": 91,
+    "question": "What does an amber traffic light mean?",
+    "options": {
+      "a": "Stop before the line",
+      "b": "Do not stop",
+      "c": "Relax",
+      "d": "All of above"
+    },
+    "correct_option": "a"
+  },
+  {
+    "id": 92,
+    "question": "When parked on the left, what should you do before moving off?",
+    "options": {
+      "a": "Check your rear and right mirrors",
+      "b": "Look over your right shoulder to check the blind spot",
+      "c": "Look forward again before moving off",
+      "d": "All of above"
+    },
+    "correct_option": "d"
+  },
+  {
+    "id": 93,
+    "question": "What should you do if blinded by oncoming lights at night?",
+    "options": {
+      "a": "Press horn",
+      "b": "Turn on your high beam",
+      "c": "Close your eyes",
+      "d": "Look to the left and slow down. And if necessary stop."
+    },
+    "correct_option": "d"
+  },
+  {
+    "id": 94,
+    "question": "When you may overtake from the left?",
+    "options": {
+      "a": "When the driver infront of you has signaled his intention to turn right",
+      "b": "If the right lane traffic is low",
+      "c": "When you are turning left",
+      "d": "All of the Above"
+    },
+    "correct_option": "a"
+  },
+  {
+    "id": 95,
+    "question": "What is a controlled pedestrian crossing?",
+    "options": {
+      "a": "Pedestrian traffic lights",
+      "b": "Roundabout",
+      "c": "Parallel parking",
+      "d": "All of above"
+    },
+    "correct_option": "a"
+  },
+  {
+    "id": 96,
+    "question": "What is the speed limit for a motor car on highways?",
+    "options": {
+      "a": "100 kmph",
+      "b": "110 kmph",
+      "c": "120 kmph",
+      "d": "All of above"
+    },
+    "correct_option": "a"
+  },
+  {
+    "id": 97,
+    "question": "If there is no marking at a junction, which vehicles must be given equal importance?",
+    "options": {
+      "a": "All vehicles approaching from your right",
+      "b": "Traffic already in the junction",
+      "c": "All of above",
+      "d": "I don't know"
+    },
+    "correct_option": "c"
+  },
+  {
+    "id": 98,
+    "question": "What must you remember before you overtake?",
+    "options": {
+      "a": "You must have a clear view ahead",
+      "b": "Use double indicator",
+      "c": "Use horn",
+      "d": "All of above"
+    },
+    "correct_option": "a"
+  },
+  {
+    "id": 99,
+    "question": "Before taking turn left/right in a junction, if there are pedestrians already crossing then what would you do?",
+    "options": {
+      "a": "Slow down and allow them to cross",
+      "b": "Use horn and move on",
+      "c": "All of above",
+      "d": "None of the above"
+    },
+    "correct_option": "a"
+  },
+  {
+    "id": 100,
+    "question": "At road junction where must you stop?",
+    "options": {
+      "a": "You must stop before the stop line",
+      "b": "On zebra crossing",
+      "c": "In middle of traffic",
+      "d": "All of above"
+    },
+    "correct_option": "a"
+  },
+  {
+    "id": 101,
+    "question": "What should you do when you are being overtaken?",
+    "options": {
+      "a": "Accelerate",
+      "b": "Keep moving with same speed",
+      "c": "Horn",
+      "d": "All of above"
+    },
+    "correct_option": "b"
+  },
+  {
+    "id": 102,
+    "question": "What is the meaning of a single unbroken white line in the centre of the road?",
+    "options": {
+      "a": "It divides the road and should not be crossed",
+      "b": "It divides the road and can be crossed",
+      "c": "Road furniture",
+      "d": "I don't know"
+    },
+    "correct_option": "a"
+  },
+  {
+    "id": 103,
+    "question": "What should you not do after overtaking?",
+    "options": {
+      "a": "Cut in",
+      "b": "Slow down",
+      "c": "Mocking",
+      "d": "All of these"
+    },
+    "correct_option": "d"
+  },
+  {
+    "id": 104,
+    "question": "Name some occasions when you should use your dipped headlights",
+    "options": {
+      "a": "In built-up areas",
+      "b": "In fog or falling snow",
+      "c": "When following close behind another vehicle",
+      "d": "All of above"
+    },
+    "correct_option": "d"
+  },
+  {
+    "id": 105,
+    "question": "Are you allowed to travel faster than the speed limit while overtaking?",
+    "options": {
+      "a": "No",
+      "b": "Yes",
+      "c": "Do not know",
+      "d": "I don't know"
+    },
+    "correct_option": "a"
+  },
+  {
+    "id": 106,
+    "question": "When should you switch your lights on?",
+    "options": {
+      "a": "20 min before sunset",
+      "b": "30 min before sunset",
+      "c": "At sunset",
+      "d": "I don't know"
+    },
+    "correct_option": "b"
+  },
+  {
+    "id": 107,
+    "question": "What should you do if your vehicle catches fire?",
+    "options": {
+      "a": "Accelerate to blow out the flames",
+      "b": "Sound your horn to warn other drivers",
+      "c": "Stop and turn off the ignition",
+      "d": "All of the above"
+    },
+    "correct_option": "c"
+  },
+  {
+    "id": 108,
+    "question": "When is a driver allowed to drive without seat belt?",
+    "options": {
+      "a": "While reversing a vehicle",
+      "b": "Age 65 years and above",
+      "c": "When the driver is pregnant",
+      "d": "All of the above"
+    },
+    "correct_option": "a"
+  },
+  {
+    "id": 109,
+    "question": "Can you drive reverse on motorway?",
+    "options": {
+      "a": "Yes",
+      "b": "No",
+      "c": "Do not know",
+      "d": "All of the above"
+    },
+    "correct_option": "b"
+  },
+  {
+    "id": 110,
+    "question": "Do pedestrians have right of way while crossing a zebra crossing?",
+    "options": {
+      "a": "Yes",
+      "b": "No",
+      "c": "Do not know",
+      "d": "All of the above"
+    },
+    "correct_option": "a"
+  },
+  {
+    "id": 111,
+    "question": "Can you stop at a yellow junction box?",
+    "options": {
+      "a": "Yes",
+      "b": "No",
+      "c": "Do not know",
+      "d": "None of the above"
+    },
+    "correct_option": "b"
+  },
+  {
+    "id": 112,
+    "question": "During driving, use of mobile is __",
+    "options": {
+      "a": "Violation of traffic laws",
+      "b": "Allowed in emergency",
+      "c": "Allowed with speaker on",
+      "d": "All of above"
+    },
+    "correct_option": "a"
+  },
+  {
+    "id": 113,
+    "question": "Continuous white middle line means?",
+    "options": {
+      "a": "Overtaking is allowed",
+      "b": "Overtaking is not allowed",
+      "c": "Halt immediately",
+      "d": "Use horn"
+    },
+    "correct_option": "b"
+  },
+  {
+    "id": 114,
+    "question": "Can we overtake from left side in Pakistan?",
+    "options": {
+      "a": "Yes",
+      "b": "No",
+      "c": "Do not know",
+      "d": "None of these"
+    },
+    "correct_option": "b"
+  },
+  {
+    "id": 115,
+    "question": "Can we apply sudden brakes in normal conditions?",
+    "options": {
+      "a": "Yes",
+      "b": "No",
+      "c": "Do not know",
+      "d": "None of these"
+    },
+    "correct_option": "b"
+  },
+  {
+    "id": 116,
+    "question": "Are pedestrians allowed on motorway?",
+    "options": {
+      "a": "Yes",
+      "b": "No",
+      "c": "Do not know",
+      "d": "None of these"
+    },
+    "correct_option": "b"
+  },
+  {
+    "id": 117,
+    "question": "Can emergency vehicles cross red signal light?",
+    "options": {
+      "a": "Yes",
+      "b": "No",
+      "c": "I do not know",
+      "d": "None of these"
+    },
+    "correct_option": "a"
+  },
+  {
+    "id": 118,
+    "question": "Can we use hard shoulder for overtaking purpose?",
+    "options": {
+      "a": "Yes",
+      "b": "No",
+      "c": "Do not know",
+      "d": "None of these"
+    },
+    "correct_option": "b"
+  },
+  {
+    "id": 119,
+    "question": "Is use of horn permissible near hospital?",
+    "options": {
+      "a": "Yes",
+      "b": "No",
+      "c": "Do not know",
+      "d": "None of these"
+    },
+    "correct_option": "b"
+  },
+  {
+    "id": 120,
+    "question": "Which lane of the road is used to drive a vehicle?",
+    "options": {
+      "a": "Left",
+      "b": "Right",
+      "c": "Center",
+      "d": "All of the above"
+    },
+    "correct_option": "a"
+  },
+  {
+    "id": 121,
+    "question": "Which things you are allowed to throw out from moving vehicle?",
+    "options": {
+      "a": "cigarette",
+      "b": "waste",
+      "c": "Both",
+      "d": "Nothing"
+    },
+    "correct_option": "d"
+  },
+  {
+    "id": 122,
+    "question": "Which set of lights can be used in fog?",
+    "options": {
+      "a": "Head lights",
+      "b": "Fog lights",
+      "c": "Both of these",
+      "d": "None of these"
+    },
+    "correct_option": "c"
+  },
+  {
+    "id": 123,
+    "question": "Which indicator is used to overtake from right side?",
+    "options": {
+      "a": "Right",
+      "b": "Left",
+      "c": "Do not know",
+      "d": "None of these"
+    },
+    "correct_option": "a"
+  },
+  {
+    "id": 124,
+    "question": "How many times an indicator is used in overtaking process?",
+    "options": {
+      "a": "One",
+      "b": "Two",
+      "c": "Three",
+      "d": "None of the above"
+    },
+    "correct_option": "b"
+  },
+  {
+    "id": 125,
+    "question": "What should we do with indicator when we have moved into the overtaking lane?",
+    "options": {
+      "a": "Switch off indicator",
+      "b": "Keep indicator switched on",
+      "c": "Continue blinking the indicators",
+      "d": "All of the above"
+    },
+    "correct_option": "a"
+  },
+  {
+    "id": 126,
+    "question": "Which of the following vehicles are allowed to place red light on the roof?",
+    "options": {
+      "a": "Commercial motor vehicle",
+      "b": "Bicycles",
+      "c": "Emergency vehicle responding to a call",
+      "d": "None of them"
+    },
+    "correct_option": "c"
+  },
+  {
+    "id": 127,
+    "question": "What must you do when the driver of another vehicle gives a signal that he wants to overtake and pass your vehicle?",
+    "options": {
+      "a": "Give way to the right",
+      "b": "Signal the other driver to keep behind",
+      "c": "Move to the right and block the way of overtaking vehicle",
+      "d": "All of the above"
+    },
+    "correct_option": "a"
+  },
+  {
+    "id": 128,
+    "question": "What will you do at signal when red and yellow lights are on?",
+    "options": {
+      "a": "If you are moving, you can cross",
+      "b": "If you are static, you can move",
+      "c": "Be ready to leave but wait for green signal",
+      "d": "I don't know"
+    },
+    "correct_option": "c"
+  },
+  {
+    "id": 129,
+    "question": "Right or third lane of motorway is used for?",
+    "options": {
+      "a": "For speeding only",
+      "b": "For overtaking only",
+      "c": "All of the above",
+      "d": "I don't know"
+    },
+    "correct_option": "b"
+  },
+  {
+    "id": 130,
+    "question": "Colour of reverse light is?",
+    "options": {
+      "a": "Green",
+      "b": "Red",
+      "c": "White",
+      "d": "I don't know"
+    },
+    "correct_option": "c"
+  },
+  {
+    "id": 131,
+    "question": "Reading or sending SMS is allowed while driving?",
+    "options": {
+      "a": "No",
+      "b": "Do not know",
+      "c": "Yes",
+      "d": "Below the speed of 80 km/h"
+    },
+    "correct_option": "a"
+  },
+  {
+    "id": 132,
+    "question": "While driving attention can easily be diverted by using?",
+    "options": {
+      "a": "Mobile",
+      "b": "Air conditioner",
+      "c": "CD player",
+      "d": "I don't know"
+    },
+    "correct_option": "a"
+  },
+  {
+    "id": 133,
+    "question": "Zebra crossing is used for",
+    "options": {
+      "a": "Animals",
+      "b": "Vehicles",
+      "c": "Pedestrians",
+      "d": "Don't know"
+    },
+    "correct_option": "c"
+  },
+  {
+    "id": 134,
+    "question": "On motorway speed limit for motor car is",
+    "options": {
+      "a": "120 km/h",
+      "b": "140 km/h",
+      "c": "130 km/h",
+      "d": "80 km/h"
+    },
+    "correct_option": "a"
+  },
+  {
+    "id": 135,
+    "question": "Which side of the road a man should walk if footpath is not present?",
+    "options": {
+      "a": "On right side",
+      "b": "On left side",
+      "c": "On both sides of road",
+      "d": "I don't know"
+    },
+    "correct_option": "a"
+  },
+  {
+    "id": 136,
+    "question": "What should be displayed on rear and front screen of vehicle driven by learner drivers?",
+    "options": {
+      "a": "L",
+      "b": "S",
+      "c": "W",
+      "d": "D"
+    },
+    "correct_option": "a"
+  },
+  {
+    "id": 137,
+    "question": "The minimum speed limit on motorways is?",
+    "options": {
+      "a": "65 km/h",
+      "b": "60 km/h",
+      "c": "70 km/h",
+      "d": "55 km/h"
+    },
+    "correct_option": "a"
+  },
+  {
+    "id": 138,
+    "question": "When driving a motor vehicle on road, the driver",
+    "options": {
+      "a": "May not carry driving license",
+      "b": "May not carry the vehicle registration book",
+      "c": "Must carry the driving license and vehicle registration book",
+      "d": "I don't know"
+    },
+    "correct_option": "c"
+  },
+  {
+    "id": 139,
+    "question": "The motor vehicle driver",
+    "options": {
+      "a": "May drive at his will when there is no traffic signal",
+      "b": "Should drive according to the traffic rules and in a safe manner",
+      "c": "May drive at will when there is no traffic police",
+      "d": "May drive according to his habit"
+    },
+    "correct_option": "b"
+  },
+  {
+    "id": 140,
+    "question": "When there is a traffic police on the spot to direct traffic, the motor vehicle driver should follow",
+    "options": {
+      "a": "Road signs",
+      "b": "Traffic lights",
+      "c": "Command of the traffic police",
+      "d": "Road markings"
+    },
+    "correct_option": "c"
+  },
+  {
+    "id": 141,
+    "question": "When driving on the road having maximum speed limit signs, the motor vehicle driver",
+    "options": {
+      "a": "Is not allowed to exceed the maximum speed limit",
+      "b": "Is allowed to exceed the maximum speed limit by 10%",
+      "c": "May drive faster than the maximum speed limit",
+      "d": "None of the above"
+    },
+    "correct_option": "a"
+  },
+  {
+    "id": 142,
+    "question": "When driving through a dangerous road section at night, the driver of motor vehicle should",
+    "options": {
+      "a": "Drive at the maximum speed limit",
+      "b": "Reduce speed and drive carefully",
+      "c": "Maintain the existing speed",
+      "d": "Drive faster than the stipulated maximum speed"
+    },
+    "correct_option": "b"
+  },
+  {
+    "id": 143,
+    "question": "While in adverse weather conditions, the driver should drive",
+    "options": {
+      "a": "At a fairly high speed",
+      "b": "Faster than the stipulated maximum speed",
+      "c": "At the existing speed",
+      "d": "At reduced speed"
+    },
+    "correct_option": "d"
+  },
+  {
+    "id": 144,
+    "question": "When the emergency vehicles are rushing for an emergency task, other vehicles should",
+    "options": {
+      "a": "Speed up and join them",
+      "b": "Overtake with care",
+      "c": "May yield depending on circumstances",
+      "d": "Should yield"
+    },
+    "correct_option": "d"
+  },
+  {
+    "id": 145,
+    "question": "When motor vehicles have difficulty in crossing each other on a narrow mountain road, who should go first?",
+    "options": {
+      "a": "The fast-moving vehicle",
+      "b": "The loaded vehicle",
+      "c": "The vehicle close to the mountain",
+      "d": "The vehicle not close to the mountain"
+    },
+    "correct_option": "c"
+  },
+  {
+    "id": 146,
+    "question": "When motor vehicles cross each other on a narrow slope, which vehicle should go first?",
+    "options": {
+      "a": "The vehicle going up the slope",
+      "b": "The vehicle far from the top of the slope",
+      "c": "The vehicle going down the slope",
+      "d": "All of the above"
+    },
+    "correct_option": "a"
+  },
+  {
+    "id": 147,
+    "question": "When crossing each other at night the vehicle should use",
+    "options": {
+      "a": "Low beam",
+      "b": "High beam",
+      "c": "Parking light",
+      "d": "None of the above"
+    },
+    "correct_option": "a"
+  },
+  {
+    "id": 148,
+    "question": "When motor vehicle encounters a traffic jam at a junction, the driver should",
+    "options": {
+      "a": "Stop outside the junction and wait, instead of entering the junction",
+      "b": "Bypass from the left side and manage to go through the junction",
+      "c": "Bypass from the right side and manage to go through the junction",
+      "d": "Make a U turn immediately and leave in the opposite direction"
+    },
+    "correct_option": "a"
+  },
+  {
+    "id": 149,
+    "question": "When a motor vehicle turns left, the driver should ___ in advance",
+    "options": {
+      "a": "Turn on the left-turn signal",
+      "b": "Turn on the hazard lights",
+      "c": "Turn on the right-turn signal",
+      "d": "Make hand signal to other vehicles"
+    },
+    "correct_option": "a"
+  },
+  {
+    "id": 150,
+    "question": "When a motor vehicle makes a U turn, the driver should ___ in advance",
+    "options": {
+      "a": "Make hand signals to other vehicles",
+      "b": "Turn on the hazard lights",
+      "c": "Turn on the right indicator",
+      "d": "Turn on the left indicator"
+    },
+    "correct_option": "c"
+  },
+  {
+    "id": 151,
+    "question": "When a motor vehicle changes to the right lane, the driver should ___ in advance",
+    "options": {
+      "a": "Turn on the hazard lights",
+      "b": "Make hand signals to other vehicles",
+      "c": "Turn on the right indicator",
+      "d": "Turn on the left indicator"
+    },
+    "correct_option": "c"
+  },
+  {
+    "id": 152,
+    "question": "When a motor vehicle returns to the original lane after overtaking, the driver should ___ in advance",
+    "options": {
+      "a": "Turn on the hazard lights",
+      "b": "Turn on the right indicator",
+      "c": "Make hand signals to other vehicles",
+      "d": "Turn on the left indicator"
+    },
+    "correct_option": "d"
+  },
+  {
+    "id": 153,
+    "question": "When a motor vehicle runs close to a sharp curve or other sections that affect the safe visibility range, the driver should _____ and honk to indicate the intention",
+    "options": {
+      "a": "Speed up",
+      "b": "Reduce speed and go slowly",
+      "c": "Use the hazard lights",
+      "d": "None of the above"
+    },
+    "correct_option": "b"
+  },
+  {
+    "id": 154,
+    "question": "When driving a motor vehicle downhill, the driver",
+    "options": {
+      "a": "May switch off the engine",
+      "b": "May use the neutral gear and switch off the engine",
+      "c": "May use the neutral gear",
+      "d": "Should not use the neutral gear or switch off the engine"
+    },
+    "correct_option": "d"
+  },
+  {
+    "id": 155,
+    "question": "Driving the vehicle for more than four hours continuously, the driver must take rest for at least",
+    "options": {
+      "a": "5 minutes",
+      "b": "10 minutes",
+      "c": "20 minutes",
+      "d": "40 minutes"
+    },
+    "correct_option": "c"
+  },
+  {
+    "id": 156,
+    "question": "When a motor vehicle has to stop temporarily, the driver should",
+    "options": {
+      "a": "Stop in the lane for vehicles",
+      "b": "Stop at right side of the upcoming traffic",
+      "c": "Stop at left side of the road",
+      "d": "Stop at roadside"
+    },
+    "correct_option": "c"
+  },
+  {
+    "id": 157,
+    "question": "A motor vehicle is not allowed to stop within _____ of an intersection",
+    "options": {
+      "a": "20 meters",
+      "b": "30 meters",
+      "c": "40 meters",
+      "d": "50 meters"
+    },
+    "correct_option": "d"
+  },
+  {
+    "id": 158,
+    "question": "A motor vehicle is not allowed to stop within _____ of a curve",
+    "options": {
+      "a": "50 meters",
+      "b": "40 meters",
+      "c": "30 meters",
+      "d": "20 meters"
+    },
+    "correct_option": "a"
+  },
+  {
+    "id": 159,
+    "question": "A motor vehicle is not allowed to stop within _____ of a steep slope",
+    "options": {
+      "a": "50 meters",
+      "b": "40 meters",
+      "c": "30 meters",
+      "d": "20 meters"
+    },
+    "correct_option": "a"
+  },
+  {
+    "id": 160,
+    "question": "A motor vehicle is not allowed to stop within _____ of a tunnel",
+    "options": {
+      "a": "20 meters",
+      "b": "30 meters",
+      "c": "40 meters",
+      "d": "50 meters"
+    },
+    "correct_option": "d"
+  },
+  {
+    "id": 161,
+    "question": "A motor vehicle is not allowed to stop within _____ of the fire hydrant or the fire brigade station",
+    "options": {
+      "a": "5 meters",
+      "b": "10 meters",
+      "c": "20 meters",
+      "d": "30 meters"
+    },
+    "correct_option": "d"
+  },
+  {
+    "id": 162,
+    "question": "When a motor vehicle leaves the expressway, it should turn on _____, change the lane and reduce the speed before leaving",
+    "options": {
+      "a": "The left indicator",
+      "b": "The right indicator",
+      "c": "The hazard lights",
+      "d": "The head lights"
+    },
+    "correct_option": "a"
+  },
+  {
+    "id": 163,
+    "question": "When the red traffic light is on, _____ may pass if they do not obstruct the flow of traffic",
+    "options": {
+      "a": "The right-turning vehicles",
+      "b": "The left-turning vehicles",
+      "c": "The vehicles turning at the T-shaped intersection",
+      "d": "The vehicle in all directions"
+    },
+    "correct_option": "b"
+  },
+  {
+    "id": 164,
+    "question": "When the green arrow light points to the left side, it allows the vehicles to",
+    "options": {
+      "a": "Turn left",
+      "b": "Turn right",
+      "c": "Go straight",
+      "d": "Make a U turn"
+    },
+    "correct_option": "a"
+  },
+  {
+    "id": 165,
+    "question": "When the green arrow light points to the right side, it allows the vehicles to",
+    "options": {
+      "a": "Turn left",
+      "b": "Turn right",
+      "c": "Go straight",
+      "d": "Make a U turn"
+    },
+    "correct_option": "b"
+  },
+  {
+    "id": 166,
+    "question": "When the red arrow light points upward, it prohibits the vehicles from",
+    "options": {
+      "a": "Turning left",
+      "b": "Turning right",
+      "c": "Going straight",
+      "d": "Making a U turn"
+    },
+    "correct_option": "c"
+  },
+  {
+    "id": 167,
+    "question": "When the red arrow light points to the left side, it prohibits the vehicles from",
+    "options": {
+      "a": "Turning left",
+      "b": "Turning right",
+      "c": "Going straight",
+      "d": "Making a U turn"
+    },
+    "correct_option": "a"
+  },
+  {
+    "id": 168,
+    "question": "When the red arrow light points to the right side, it prohibits the vehicles from",
+    "options": {
+      "a": "Turning left",
+      "b": "Turning right",
+      "c": "Going straight",
+      "d": "Making a U turn"
+    },
+    "correct_option": "b"
+  },
+  {
+    "id": 169,
+    "question": "The continuously flashing yellow light warns about",
+    "options": {
+      "a": "The vehicles and pedestrians to pass as fast as they can",
+      "b": "Stops the vehicles and pedestrians from passing",
+      "c": "Means the vehicles and pedestrians may continue to pass",
+      "d": "Means the vehicles and pedestrians should look and make sure it is safe to pass"
+    },
+    "correct_option": "d"
+  },
+  {
+    "id": 170,
+    "question": "When driving a motor vehicle, the driver _____ the steering wheel",
+    "options": {
+      "a": "May temporarily take both hands off",
+      "b": "May operate at his will",
+      "c": "Is prohibited from simultaneously taking both hands off",
+      "d": "I don't know"
+    },
+    "correct_option": "c"
+  },
+  {
+    "id": 171,
+    "question": "When applying the brake pedal, the driver should use",
+    "options": {
+      "a": "The front sole of the left foot",
+      "b": "The front sole of the right foot",
+      "c": "The central sole of the right foot",
+      "d": "The heel of the right foot"
+    },
+    "correct_option": "b"
+  },
+  {
+    "id": 172,
+    "question": "When changing the gear",
+    "options": {
+      "a": "The driver should not bow his head and look down",
+      "b": "The driver should push and pull slowly",
+      "c": "The driver should observe the gear position",
+      "d": "The driver can push and pull forcefully"
+    },
+    "correct_option": "a"
+  },
+  {
+    "id": 173,
+    "question": "The main impact of rainy weather on safe driving is",
+    "options": {
+      "a": "The electric equipment is prone to getting wet and causing short circuit",
+      "b": "The road is wet and slippery and the visibility becomes poor",
+      "c": "The engine is prone to stop",
+      "d": "Resistance to the vehicle increases"
+    },
+    "correct_option": "b"
+  },
+  {
+    "id": 174,
+    "question": "As the road is wet and slippery after rain, applying brake can",
+    "options": {
+      "a": "Cause engine stop",
+      "b": "Be ignored by the drivers of other vehicles",
+      "c": "Cause skid and sideways slide",
+      "d": "Cause collision due to poor visibility"
+    },
+    "correct_option": "c"
+  },
+  {
+    "id": 175,
+    "question": "The main impact of foggy weather on safe driving is",
+    "options": {
+      "a": "The engine can easily stop",
+      "b": "The vehicle can easily slide sideways",
+      "c": "Resistance to the vehicle increases",
+      "d": "The visibility becomes poor"
+    },
+    "correct_option": "d"
+  },
+  {
+    "id": 176,
+    "question": "At night, the driver's observation is significantly poorer than the daytime, and the range of visibility becomes",
+    "options": {
+      "a": "Longer",
+      "b": "Shorter",
+      "c": "No change",
+      "d": "Irregular"
+    },
+    "correct_option": "b"
+  },
+  {
+    "id": 177,
+    "question": "The main impact of the road conditions in icy and snowy weather is",
+    "options": {
+      "a": "The electric equipment can easily cause short circuit",
+      "b": "The visibility is lower and the field of vision is blurred",
+      "c": "The resistance to the vehicle increases",
+      "d": "The road surface is slippery and the sunshine reflection is strong, which interferes with the driver's view"
+    },
+    "correct_option": "d"
+  },
+  {
+    "id": 178,
+    "question": "The main impact of muddy roads on safe driving is",
+    "options": {
+      "a": "The resistance to the vehicle becomes weaker",
+      "b": "The tires can easily spin and skid",
+      "c": "The visibility becomes lower and blurs the field of vision",
+      "d": "The road grip becomes stronger"
+    },
+    "correct_option": "b"
+  },
+  {
+    "id": 179,
+    "question": "The main impact of mountain roads on safe driving is",
+    "options": {
+      "a": "The road signs are fewer",
+      "b": "The traffic conditions are boring",
+      "c": "The slopes are long, the curves are sharp and there are more dangerous road sections",
+      "d": "The traffic flow is heavy"
+    },
+    "correct_option": "c"
+  },
+  {
+    "id": 180,
+    "question": "When a vehicle coming in the opposite direction suddenly overtakes and occupies your lane, the correct way to deal with this situation is to",
+    "options": {
+      "a": "Speed up and go forward",
+      "b": "Reduce speed and avoid as much as possible",
+      "c": "Maintain the original speed",
+      "d": "Obstruct the way of that vehicle"
+    },
+    "correct_option": "b"
+  },
+  {
+    "id": 181,
+    "question": "If all lights of a vehicle on the road go off suddenly at night, the driver should",
+    "options": {
+      "a": "Drive at reduced speed",
+      "b": "Brake as fast as possible and stop where it is",
+      "c": "Apply brake and stop on left side of the road",
+      "d": "Stop slowly"
+    },
+    "correct_option": "c"
+  },
+  {
+    "id": 182,
+    "question": "When discovering traffic congestion ahead while driving, the driver should",
+    "options": {
+      "a": "Find a chance to overtake the vehicle in front",
+      "b": "Weave through other vehicles",
+      "c": "Reduce speed, stop and wait in line",
+      "d": "Honk to urge other vehicles"
+    },
+    "correct_option": "c"
+  },
+  {
+    "id": 183,
+    "question": "When discovering another vehicle stuck in a muddy road, the driver should",
+    "options": {
+      "a": "Bypass",
+      "b": "Help voluntarily",
+      "c": "Ignore it",
+      "d": "Give horn"
+    },
+    "correct_option": "b"
+  },
+  {
+    "id": 184,
+    "question": "When driving a vehicle at normal speed, the driver can easily be aware of the road conditions and in case of encountering an obstacle",
+    "options": {
+      "a": "Take an emergency brake and stop the vehicle",
+      "b": "Swiftly bypass",
+      "c": "Rapidly dodge to avoid collision",
+      "d": "Steadily stop the vehicle"
+    },
+    "correct_option": "d"
+  },
+  {
+    "id": 185,
+    "question": "When driving a vehicle, the driver should drive in a safe, _____ and friendly manner",
+    "options": {
+      "a": "Courteous",
+      "b": "Nimble",
+      "c": "Selfish",
+      "d": "Jumping"
+    },
+    "correct_option": "a"
+  },
+  {
+    "id": 186,
+    "question": "When the vehicle in front is going slowly, the driver should",
+    "options": {
+      "a": "Overtake from the right side when approaching the vehicle in front",
+      "b": "Change lane in advance and overtake",
+      "c": "Honk to urge",
+      "d": "Overtake by using the lane for non-motorized vehicles"
+    },
+    "correct_option": "b"
+  },
+  {
+    "id": 187,
+    "question": "When overtaking, the driver should _____ if he discovers the vehicle in front starts overtaking",
+    "options": {
+      "a": "Follow closely and find chance to overtake",
+      "b": "Speed up to overtake forcefully",
+      "c": "Continuously honk to urge the vehicle in front to yield",
+      "d": "Stop overtaking and allow the vehicle in front to overtake first"
+    },
+    "correct_option": "d"
+  },
+  {
+    "id": 188,
+    "question": "When discovering a congestion at the intersection ahead, the correct way to deal with this situation is to",
+    "options": {
+      "a": "Reduce speed, stop and wait till the congestion is cleared",
+      "b": "Continue to enter the intersection",
+      "c": "Honk to indicate the vehicle in front to speed and pass",
+      "d": "Find chance to pass from both sides"
+    },
+    "correct_option": "a"
+  },
+  {
+    "id": 189,
+    "question": "When overtaking, the driver should _____ if the vehicle in front refuses to give room for overtaking",
+    "options": {
+      "a": "Overtake rapidly",
+      "b": "Stop overtaking",
+      "c": "Continuously honk and overtake",
+      "d": "Turn on the head light and overtake"
+    },
+    "correct_option": "b"
+  },
+  {
+    "id": 190,
+    "question": "When driving slowly in a congested road, if another vehicle forcefully \"cuts in\", the driver should",
+    "options": {
+      "a": "Honk to warn it against cutting in",
+      "b": "Speed up to closely follow the vehicle in front and refuse to allow it to cut in",
+      "c": "Voluntarily yield to ensure safe driving",
+      "d": "Squeeze the \"cutting-in\" vehicle to force it to leave"
+    },
+    "correct_option": "c"
+  },
+  {
+    "id": 191,
+    "question": "When driving, the driver should remind the passengers to throw the garbage",
+    "options": {
+      "a": "To the street outside the window of the vehicle",
+      "b": "To the unmanned road",
+      "c": "Into the garbage bin (bag) in the vehicle",
+      "d": "Under the seat or in the compartment of the vehicle"
+    },
+    "correct_option": "c"
+  },
+  {
+    "id": 192,
+    "question": "If driving license of a driver is lost, he can still drive a vehicle",
+    "options": {
+      "a": "Right",
+      "b": "Wrong",
+      "c": "I don't know",
+      "d": "None of them"
+    },
+    "correct_option": "b"
+  },
+  {
+    "id": 193,
+    "question": "Driver is not allowed to drive a motor vehicle if his driving license is detained",
+    "options": {
+      "a": "Right",
+      "b": "Wrong",
+      "c": "I don't know",
+      "d": "None of them"
+    },
+    "correct_option": "a"
+  },
+  {
+    "id": 194,
+    "question": "If a road has fast and slow lanes, all motor vehicles should use the slow lane and can enter the fast lane only for overtaking",
+    "options": {
+      "a": "Right",
+      "b": "Wrong",
+      "c": "I don't know",
+      "d": "None of them"
+    },
+    "correct_option": "a"
+  },
+  {
+    "id": 195,
+    "question": "A motor vehicle is not allowed to turn at the place that has a sign prohibiting no turn",
+    "options": {
+      "a": "Right",
+      "b": "Wrong",
+      "c": "I don't know",
+      "d": "None of them"
+    },
+    "correct_option": "a"
+  },
+  {
+    "id": 196,
+    "question": "A motor vehicle may make a U turn on an uphill road",
+    "options": {
+      "a": "Wrong",
+      "b": "Right",
+      "c": "I don't know",
+      "d": "None of them"
+    },
+    "correct_option": "a"
+  },
+  {
+    "id": 197,
+    "question": "When a motor vehicle reverses, it should be made sure that it is safe to reverse",
+    "options": {
+      "a": "Right",
+      "b": "Wrong",
+      "c": "I don't know",
+      "d": "None of them"
+    },
+    "correct_option": "a"
+  },
+  {
+    "id": 198,
+    "question": "A motor vehicle may reverse at an intersection",
+    "options": {
+      "a": "Right",
+      "b": "Wrong",
+      "c": "I don't know",
+      "d": "None of them"
+    },
+    "correct_option": "b"
+  },
+  {
+    "id": 199,
+    "question": "A motor vehicle is not allowed to take turn in a tunnel",
+    "options": {
+      "a": "Right",
+      "b": "Wrong",
+      "c": "I don't know",
+      "d": "None of them"
+    },
+    "correct_option": "a"
+  },
+  {
+    "id": 200,
+    "question": "A motor vehicle is allowed to reverse on a one-way road",
+    "options": {
+      "a": "Wrong",
+      "b": "Right",
+      "c": "I don't know",
+      "d": "None of them"
+    },
+    "correct_option": "a"
+  },
+  {
+    "id": 201,
+    "question": "If a motor vehicle has broken down or encountered a road accident, obstructs the traffic flow and is difficult to move, the vehicle's hazard lights should be switched on",
+    "options": {
+      "a": "Wrong",
+      "b": "Right",
+      "c": "I don't know",
+      "d": "None of them"
+    },
+    "correct_option": "b"
+  },
+  {
+    "id": 202,
+    "question": "Do not drive a vehicle when the doors are not properly closed",
+    "options": {
+      "a": "Right",
+      "b": "Wrong",
+      "c": "I don't know",
+      "d": "None of them"
+    },
+    "correct_option": "a"
+  },
+  {
+    "id": 203,
+    "question": "Do not hang or place articles close to the front and rear windows that block vision of the driver",
+    "options": {
+      "a": "Right",
+      "b": "Wrong",
+      "c": "I don't know",
+      "d": "None of them"
+    },
+    "correct_option": "a"
+  },
+  {
+    "id": 204,
+    "question": "When a motor vehicle crosses an overflowing road or bridge, the driver should stop and look at the situation, and pass through slowly after making sure that it is safe to do so",
+    "options": {
+      "a": "Right",
+      "b": "Wrong",
+      "c": "I don't know",
+      "d": "None of these"
+    },
+    "correct_option": "a"
+  },
+  {
+    "id": 205,
+    "question": "Closing or opening the doors of a motor vehicle should not obstruct the flow of other vehicles and pedestrians",
+    "options": {
+      "a": "Wrong",
+      "b": "Right",
+      "c": "I don't know",
+      "d": "None of them"
+    },
+    "correct_option": "b"
+  },
+  {
+    "id": 206,
+    "question": "When a motor vehicle is on road, the passengers are not allowed to extend their heads out but may stretch their hands out of the window",
+    "options": {
+      "a": "Wrong",
+      "b": "Right",
+      "c": "I don't know",
+      "d": "None of them"
+    },
+    "correct_option": "a"
+  },
+  {
+    "id": 207,
+    "question": "People can test vehicles or learn to drive motor vehicle on the expressway",
+    "options": {
+      "a": "Wrong",
+      "b": "Right",
+      "c": "I don't know",
+      "d": "None of them"
+    },
+    "correct_option": "a"
+  },
+  {
+    "id": 208,
+    "question": "When a motor vehicle runs on the expressway, it can overtake from the hard shoulder",
+    "options": {
+      "a": "Wrong",
+      "b": "Right",
+      "c": "I don't know",
+      "d": "None of them"
+    },
+    "correct_option": "a"
+  },
+  {
+    "id": 209,
+    "question": "When running on the expressway, the motor vehicles are not allowed to reverse, drive in the opposite direction, make a U turn or stop in the carriageway",
+    "options": {
+      "a": "Wrong",
+      "b": "Right",
+      "c": "I don't know",
+      "d": "None of them"
+    },
+    "correct_option": "b"
+  },
+  {
+    "id": 210,
+    "question": "When running on the expressway, the motor vehicles may drive or stop in the emergency lane in non-emergency cases",
+    "options": {
+      "a": "Wrong",
+      "b": "Right",
+      "c": "I don't know",
+      "d": "None of them"
+    },
+    "correct_option": "a"
+  },
+  {
+    "id": 211,
+    "question": "It is allowed to overtake from the slow moving lane of the expressway",
+    "options": {
+      "a": "Wrong",
+      "b": "Right",
+      "c": "I don't know",
+      "d": "None of them"
+    },
+    "correct_option": "a"
+  },
+  {
+    "id": 212,
+    "question": "If a motor vehicle causes a road accident and the driver runs away, he is not responsible for the accident",
+    "options": {
+      "a": "Wrong",
+      "b": "Right",
+      "c": "I don't know",
+      "d": "None of them"
+    },
+    "correct_option": "a"
+  },
+  {
+    "id": 213,
+    "question": "The traffic police may detain the motor vehicle if its registration book, number plate or driving licence are doubtful",
+    "options": {
+      "a": "Wrong",
+      "b": "Right",
+      "c": "I don't know",
+      "d": "None of them"
+    },
+    "correct_option": "b"
+  },
+  {
+    "id": 214,
+    "question": "When the red light is on, it allows the vehicles to pass",
+    "options": {
+      "a": "Wrong",
+      "b": "Right",
+      "c": "I don't know",
+      "d": "None of them"
+    },
+    "correct_option": "a"
+  },
+  {
+    "id": 215,
+    "question": "When the green light is on, it prohibits the vehicles from passing",
+    "options": {
+      "a": "Wrong",
+      "b": "Right",
+      "c": "I don't know",
+      "d": "None of them"
+    },
+    "correct_option": "a"
+  },
+  {
+    "id": 216,
+    "question": "When the yellow light is on, it allows the vehicles to pass",
+    "options": {
+      "a": "Right",
+      "b": "Wrong",
+      "c": "I don't know",
+      "d": "None of them"
+    },
+    "correct_option": "b"
+  },
+  {
+    "id": 217,
+    "question": "When the red X-shaped light is on, it allows the vehicles in this lane to pass",
+    "options": {
+      "a": "Right",
+      "b": "Wrong",
+      "c": "I don't know",
+      "d": "None of them"
+    },
+    "correct_option": "b"
+  },
+  {
+    "id": 218,
+    "question": "When the red arrow light is on, it prohibits the vehicles in this lane from passing",
+    "options": {
+      "a": "Right",
+      "b": "Wrong",
+      "c": "I don't know",
+      "d": "None of them"
+    },
+    "correct_option": "a"
+  },
+  {
+    "id": 219,
+    "question": "When the green arrow light points upward, it allows the vehicles to go straight",
+    "options": {
+      "a": "Wrong",
+      "b": "Right",
+      "c": "I don't know",
+      "d": "None of them"
+    },
+    "correct_option": "b"
+  },
+  {
+    "id": 220,
+    "question": "Violent wind can cause a running vehicle to slide sideways",
+    "options": {
+      "a": "Right",
+      "b": "Wrong",
+      "c": "I don't know",
+      "d": "None of them"
+    },
+    "correct_option": "a"
+  },
+  {
+    "id": 221,
+    "question": "When driving, the driver should strictly obey the laws and regulations of road safety",
+    "options": {
+      "a": "Right",
+      "b": "Wrong",
+      "c": "I don't know",
+      "d": "None of them"
+    },
+    "correct_option": "a"
+  },
+  {
+    "id": 222,
+    "question": "When driving a vehicle on the road, the driver should drive safely at the prescribed speed",
+    "options": {
+      "a": "Right",
+      "b": "Wrong",
+      "c": "I don't know",
+      "d": "None of them"
+    },
+    "correct_option": "a"
+  },
+  {
+    "id": 223,
+    "question": "In normal driving, the driver should run on the central line so as not to give any chance to the vehicles in the opposite direction to overtake",
+    "options": {
+      "a": "Right",
+      "b": "Wrong",
+      "c": "I don't know",
+      "d": "None of them"
+    },
+    "correct_option": "b"
+  },
+  {
+    "id": 224,
+    "question": "It is illegal for a driver to use a cell phone while driving",
+    "options": {
+      "a": "Right",
+      "b": "Wrong",
+      "c": "I don't know",
+      "d": "None of them"
+    },
+    "correct_option": "a"
+  },
+  {
+    "id": 225,
+    "question": "When encountering an obstacle on the road, the driver should drive as fast as possible so as to pass the obstacle rapidly",
+    "options": {
+      "a": "Wrong",
+      "b": "Right",
+      "c": "I don't know",
+      "d": "None of them"
+    },
+    "correct_option": "a"
+  },
+  {
+    "id": 226,
+    "question": "When another driver requests for help while driving, the driver should help him in time",
+    "options": {
+      "a": "Right",
+      "b": "Wrong",
+      "c": "I don't know",
+      "d": "None of them"
+    },
+    "correct_option": "a"
+  },
+  {
+    "id": 227,
+    "question": "When encountering a traffic accident on the road, the driver should bypass as fast as possible and should not help the injured persons",
+    "options": {
+      "a": "Wrong",
+      "b": "Right",
+      "c": "I don't know",
+      "d": "None of them"
+    },
+    "correct_option": "a"
+  },
+  {
+    "id": 228,
+    "question": "When driving, the driver may spit to the road or street out of the window",
+    "options": {
+      "a": "Wrong",
+      "b": "Right",
+      "c": "I don't know",
+      "d": "None of these"
+    },
+    "correct_option": "a"
+  },
+  {
+    "id": 229,
+    "question": "When passing a silence zone where the pedestrians fail to yield, the driver should honk to remind them to yield",
+    "options": {
+      "a": "Wrong",
+      "b": "Right",
+      "c": "I don't know",
+      "d": "None of them"
+    },
+    "correct_option": "a"
+  },
+  {
+    "id": 230,
+    "question": "If the driver finds there is no vehicle following, he can change lanes without turning on the turn signal",
+    "options": {
+      "a": "Wrong",
+      "b": "Right",
+      "c": "I don't know",
+      "d": "None of them"
+    },
+    "correct_option": "a"
+  },
+  {
+    "id": 231,
+    "question": "It is not safe for a woman driver to wear high heels to drive a vehicle",
+    "options": {
+      "a": "Right",
+      "b": "Wrong",
+      "c": "I don't know",
+      "d": "None of them"
+    },
+    "correct_option": "a"
+  },
+  {
+    "id": 232,
+    "question": "It is a bad habit for a driver to put his right arm on the window of the vehicle or hold the gear lever in his left hand for a long time",
+    "options": {
+      "a": "Right",
+      "b": "Wrong",
+      "c": "I don't know",
+      "d": "None of them"
+    },
+    "correct_option": "a"
+  },
+  {
+    "id": 233,
+    "question": "Smoking has no harm on safe driving",
+    "options": {
+      "a": "Right",
+      "b": "Wrong",
+      "c": "I don't know",
+      "d": "None of them"
+    },
+    "correct_option": "b"
+  },
+  {
+    "id": 234,
+    "question": "It is not a bad habit for a driver to frequently change lanes",
+    "options": {
+      "a": "Wrong",
+      "b": "Right",
+      "c": "I don't know",
+      "d": "None of them"
+    },
+    "correct_option": "a"
+  },
+  {
+    "id": 235,
+    "question": "When crossing each other on a narrow road, the driver should slow down, yield and stop first",
+    "options": {
+      "a": "Wrong",
+      "b": "Right",
+      "c": "I don't know",
+      "d": "None of them"
+    },
+    "correct_option": "b"
+  },
+  {
+    "id": 236,
+    "question": "When a driver wants to bypass an obstacle in front and another vehicle in the opposite direction is also approaching the obstacle, the driver should",
+    "options": {
+      "a": "Reduce speed or stop and yield to the vehicle coming in the opposite direction",
+      "b": "Speed up and bypass the obstacle in advance",
+      "c": "Honk to indicate the vehicle in the opposite direction to yield",
+      "d": "Rapidly occupy the lane and force the vehicle coming in the opposite direction to stop and yield"
+    },
+    "correct_option": "a"
+  },
+  {
+    "id": 237,
+    "question": "When changing lane, the driver",
+    "options": {
+      "a": "Turn on the turn signal one second in advance",
+      "b": "Turn on the turn signal at least three seconds in advance to alert the following vehicle",
+      "c": "Does not need to turn on the turn signal in advance",
+      "d": "May decide whether to turn on the turn signal according to the traffic conditions"
+    },
+    "correct_option": "b"
+  },
+  {
+    "id": 238,
+    "question": "When a driver wants to change to the left lane and it does not obstruct traffic, he should",
+    "options": {
+      "a": "Turn on the hazard lights",
+      "b": "Turn on the turn signal",
+      "c": "Make a hand signal",
+      "d": "Turn on the left-turn signal"
+    },
+    "correct_option": "d"
+  },
+  {
+    "id": 239,
+    "question": "When a driver is about to enter the motorway but discovers there are many vehicles coming from behind, the driver should",
+    "options": {
+      "a": "Make hand signals to indicate the vehicles behind to yield",
+      "b": "Speed up and enter the motorway",
+      "c": "Turn right and directly enter the motorway",
+      "d": "Move forward slowly and wait for chance to enter the motorway"
+    },
+    "correct_option": "d"
+  },
+  {
+    "id": 240,
+    "question": "When reversing to make a U turn on an ordinary road, the driver should do so",
+    "options": {
+      "a": "At a section where traffic is heavy",
+      "b": "At a place where road is narrow",
+      "c": "At a place where there are pedestrians",
+      "d": "At a place where the normal traffic is not affected"
+    },
+    "correct_option": "d"
+  },
+  {
+    "id": 241,
+    "question": "While crossing each other at an improper place, the driver should",
+    "options": {
+      "a": "Speed up and select a better place",
+      "b": "Reduce speed and cross each other slowly, or stop to yield",
+      "c": "Occupy the right lane to force the opposite party to reduce speed and yield",
+      "d": "Turn the head light to indicate the opposite party to stop and yield"
+    },
+    "correct_option": "b"
+  },
+  {
+    "id": 242,
+    "question": "If the vehicle to be overtaken has no space for overtaking, the driver should",
+    "options": {
+      "a": "Voluntarily give up overtaking",
+      "b": "Overtake by force",
+      "c": "Honk to urge the vehicle to move to the roadside",
+      "d": "Overtake with care"
+    },
+    "correct_option": "a"
+  },
+  {
+    "id": 243,
+    "question": "When a vehicle reaches a sharp curve, the driver should",
+    "options": {
+      "a": "Go forward by borrowing the opposite lane",
+      "b": "Brake suddenly and go slowly",
+      "c": "Drive along the outer side of the curve",
+      "d": "Reduce speed and drive on the left side"
+    },
+    "correct_option": "d"
+  },
+  {
+    "id": 244,
+    "question": "If there is no vehicle coming in the opposite direction while a vehicle enters a curve of a mountain road, the driver",
+    "options": {
+      "a": "Should reduce speed, honk and drive on the left side",
+      "b": "Should drive along the outer side of the curve",
+      "c": "May briefly borrow the opposite lane",
+      "d": "None of the above"
+    },
+    "correct_option": "a"
+  },
+  {
+    "id": 245,
+    "question": "When passing a railway crossing without gate, the driver should",
+    "options": {
+      "a": "Speed up and pass",
+      "b": "Reduce speed and pass",
+      "c": "Maintain the speed and pass",
+      "d": "Stop, look and pass"
+    },
+    "correct_option": "d"
+  },
+  {
+    "id": 246,
+    "question": "Before a vehicle leaves a roundabout, the driver should turn on",
+    "options": {
+      "a": "The left-turn signal",
+      "b": "The hazard lights",
+      "c": "The right-turn signal",
+      "d": "The high beam light"
+    },
+    "correct_option": "a"
+  },
+  {
+    "id": 247,
+    "question": "When a stopped vehicle is being crossed by an animal drawn vehicle, the driver should",
+    "options": {
+      "a": "Honk to indicate them to yield",
+      "b": "Let him go first",
+      "c": "Speed up and bypass",
+      "d": "Follow them closely and honk"
+    },
+    "correct_option": "b"
+  },
+  {
+    "id": 248,
+    "question": "When encountering a flock of sheep crossing a road, the driver should",
+    "options": {
+      "a": "Honk continuously to drive away the flock",
+      "b": "Speed up and bypass the flock",
+      "c": "Drive slowly and use the vehicle to scare away the flock",
+      "d": "Reduce speed and go slowly, or stop to yield when necessary"
+    },
+    "correct_option": "d"
+  },
+  {
+    "id": 249,
+    "question": "When a driver comes to know about animal crossing on the road, the driver should",
+    "options": {
+      "a": "Voluntarily reduce speed or stop to yield",
+      "b": "Honk to drive them away",
+      "c": "Speed up and bypass",
+      "d": "Do not reduce speed and use the vehicle to drive them away"
+    },
+    "correct_option": "a"
+  },
+  {
+    "id": 250,
+    "question": "When encountering an ambulance rushing in the same lane in the opposite direction, the driver should",
+    "options": {
+      "a": "Move to the road side, reduce speed or stop to yield",
+      "b": "Drive on by using another lane",
+      "c": "Speed up and change lane to avoid",
+      "d": "Continue to go in the original lane"
+    },
+    "correct_option": "a"
+  },
+  {
+    "id": 251,
+    "question": "When encountering pedestrians on the road who are highly concentrated in talking over cell phones, the driver should",
+    "options": {
+      "a": "Honk when approaching them",
+      "b": "Speed up and bypass them",
+      "c": "Maintain the normal speed",
+      "d": "Reduce speed and honk to remind them"
+    },
+    "correct_option": "d"
+  },
+  {
+    "id": 252,
+    "question": "When encountering children on the road, the driver should",
+    "options": {
+      "a": "Honk to indicate the intention",
+      "b": "Reduce speed and go slowly, or stop to yield when necessary",
+      "c": "Swiftly bypass from one side",
+      "d": "Speed up and bypass"
+    },
+    "correct_option": "b"
+  },
+  {
+    "id": 253,
+    "question": "When encountering school children crossing the road in a queue, the driver should",
+    "options": {
+      "a": "Speed up in advance and pass forcefully",
+      "b": "Stop to yield",
+      "c": "Reduce speed and go slowly",
+      "d": "Continuously honk to urge them"
+    },
+    "correct_option": "b"
+  },
+  {
+    "id": 254,
+    "question": "When encountering an old man on the road, the driver should",
+    "options": {
+      "a": "Speed up in advance and pass",
+      "b": "Bypass from behind",
+      "c": "Reduce speed and yield",
+      "d": "Continuously honk to warn"
+    },
+    "correct_option": "c"
+  },
+  {
+    "id": 255,
+    "question": "When encountering a blind man on the road, the driver should",
+    "options": {
+      "a": "Honk to indicate him to yield",
+      "b": "Swiftly bypass",
+      "c": "Follow closely",
+      "d": "Reduce speed and yield"
+    },
+    "correct_option": "d"
+  },
+  {
+    "id": 256,
+    "question": "When a vehicle passes a bumped road, the driver should",
+    "options": {
+      "a": "Pass slowly and steadily",
+      "b": "Speed up and cross over",
+      "c": "Change to the neutral gear and pass",
+      "d": "Maintain the original speed and pass"
+    },
+    "correct_option": "a"
+  },
+  {
+    "id": 257,
+    "question": "When being overtaken by a young bike rider, the driver should",
+    "options": {
+      "a": "Swiftly bypass",
+      "b": "Maintain the normal speed",
+      "c": "Reduce speed and give the space to overtake",
+      "d": "Continuously honk"
+    },
+    "correct_option": "c"
+  },
+  {
+    "id": 258,
+    "question": "When a vehicle overtakes the bike riders, the driver should",
+    "options": {
+      "a": "Yield to the bike riders",
+      "b": "Observe them, and overtake carefully",
+      "c": "Continuously honk to remind them to yield",
+      "d": "Continuously honk and speed up to overtake"
+    },
+    "correct_option": "b"
+  },
+  {
+    "id": 259,
+    "question": "When a vehicle encounters a bike rider coming in the opposite direction at night, the driver should",
+    "options": {
+      "a": "Continuously change the high and low beam lights",
+      "b": "Continuously honk",
+      "c": "Use the high beam light",
+      "d": "Use the low beam light, reduce speed or stop to evade"
+    },
+    "correct_option": "d"
+  },
+  {
+    "id": 260,
+    "question": "When a vehicle encounters an animal-drawn cart on the road, the driver should",
+    "options": {
+      "a": "Suddenly speed up and bypass",
+      "b": "Honk when approaching",
+      "c": "Honk in distance and reduce speed in advance",
+      "d": "Follow closely"
+    },
+    "correct_option": "c"
+  },
+  {
+    "id": 261,
+    "question": "If a vehicle has the right of way at an intersection but encounters a vehicle cutting in, the driver should",
+    "options": {
+      "a": "Rush to pass",
+      "b": "Speed up in advance and pass",
+      "c": "Go forward at the normal speed according to the right of way and refuse to evade",
+      "d": "Reduce speed and evade, or stop to yield when necessary"
+    },
+    "correct_option": "d"
+  },
+  {
+    "id": 262,
+    "question": "When a motor vehicle stops temporarily at the roadside, the driver",
+    "options": {
+      "a": "May stop the vehicle in the opposite direction",
+      "b": "May stop the vehicle in parallel",
+      "c": "Is not allowed to stop in the opposite direction or in parallel",
+      "d": "May stop anyway he likes as long as it is convenient for him to get out"
+    },
+    "correct_option": "c"
+  },
+  {
+    "id": 263,
+    "question": "When a vehicle stops temporarily in rain, the driver should turn on",
+    "options": {
+      "a": "The head and tail fog lights",
+      "b": "The hazard lights",
+      "c": "The high beam light",
+      "d": "The reverse light"
+    },
+    "correct_option": "b"
+  },
+  {
+    "id": 264,
+    "question": "When a vehicle stops temporarily in a snowy day, the driver should turn on",
+    "options": {
+      "a": "The head and tail fog light",
+      "b": "The reverse light",
+      "c": "The high beam light",
+      "d": "The hazard lights"
+    },
+    "correct_option": "d"
+  },
+  {
+    "id": 265,
+    "question": "When driving at night, if the vehicle coming in the opposite direction fails to turn off the high beam light, the driver should",
+    "options": {
+      "a": "Maintain the normal speed",
+      "b": "Speed up and evade the light",
+      "c": "Reduce speed or stop to yield",
+      "d": "Also turn on the high beam light"
+    },
+    "correct_option": "c"
+  },
+  {
+    "id": 266,
+    "question": "When driving in a rainy day while a pedestrian holding umbrella or in raincoat is walking on the road, the driver should",
+    "options": {
+      "a": "Drive at the normal speed",
+      "b": "Continuously honk to indicate him to yield",
+      "c": "Speed up and bypass",
+      "d": "Honk in advance and properly reduce speed"
+    },
+    "correct_option": "d"
+  },
+  {
+    "id": 267,
+    "question": "Before changing lane, the driver should turn on the indicator in advance, observe traffic conditions, maintain a safe distance and move into the required lane",
+    "options": {
+      "a": "Right",
+      "b": "Wrong",
+      "c": "I don't know",
+      "d": "None of them"
+    },
+    "correct_option": "a"
+  },
+  {
+    "id": 268,
+    "question": "Before changing to the right lane, the driver should turn on the right indicator in advance, observe traffic conditions, maintain a safe distance and move into the right lane",
+    "options": {
+      "a": "Right",
+      "b": "Wrong",
+      "c": "I don't know",
+      "d": "None of them"
+    },
+    "correct_option": "a"
+  },
+  {
+    "id": 269,
+    "question": "When a vehicle changes lane, the driver should turn on the indicator before entering the new lane",
+    "options": {
+      "a": "Right",
+      "b": "Wrong",
+      "c": "I don't know",
+      "d": "None of them"
+    },
+    "correct_option": "a"
+  },
+  {
+    "id": 270,
+    "question": "When a vehicle passes a zebra crossing, the driver should yield to the pedestrians",
+    "options": {
+      "a": "Right",
+      "b": "Wrong",
+      "c": "I don't know",
+      "d": "None of them"
+    },
+    "correct_option": "a"
+  },
+  {
+    "id": 271,
+    "question": "When a vehicle is ready to start up after a temporary stopping, the driver should honk to notify the vehicles in the right lane",
+    "options": {
+      "a": "Wrong",
+      "b": "Right",
+      "c": "I don't know",
+      "d": "None of them"
+    },
+    "correct_option": "a"
+  },
+  {
+    "id": 272,
+    "question": "After starting the vehicle, the driver should observe the traffic conditions before moving away",
+    "options": {
+      "a": "Right",
+      "b": "Wrong",
+      "c": "I don't know",
+      "d": "None of them"
+    },
+    "correct_option": "a"
+  },
+  {
+    "id": 273,
+    "question": "A vehicle should try to speed up after starting from the roadside and rapidly turn right into the traffic flow on the road",
+    "options": {
+      "a": "Right",
+      "b": "Wrong",
+      "c": "I don't know",
+      "d": "None of them"
+    },
+    "correct_option": "b"
+  },
+  {
+    "id": 274,
+    "question": "While reversing, the driver should move slowly, observe traffic on both sides and be ready to stop if needed",
+    "options": {
+      "a": "Right",
+      "b": "Wrong",
+      "c": "I don't know",
+      "d": "None of them"
+    },
+    "correct_option": "a"
+  },
+  {
+    "id": 275,
+    "question": "While overtaking, if a vehicle encounters another vehicle coming in the opposite direction, the driver should speed up in advance and overtake",
+    "options": {
+      "a": "Right",
+      "b": "Wrong",
+      "c": "I don't know",
+      "d": "None of them"
+    },
+    "correct_option": "b"
+  },
+  {
+    "id": 276,
+    "question": "Overtaking in tunnel is prohibited",
+    "options": {
+      "a": "Right",
+      "b": "Wrong",
+      "c": "I don't know",
+      "d": "None of them"
+    },
+    "correct_option": "a"
+  },
+  {
+    "id": 277,
+    "question": "Overtaking is prohibited at level crossing",
+    "options": {
+      "a": "Right",
+      "b": "Wrong",
+      "c": "I don't know",
+      "d": "None of them"
+    },
+    "correct_option": "a"
+  },
+  {
+    "id": 278,
+    "question": "Overtaking at a sharp curve is allowed if traffic is less",
+    "options": {
+      "a": "Right",
+      "b": "Wrong",
+      "c": "I don't know",
+      "d": "None of them"
+    },
+    "correct_option": "b"
+  },
+  {
+    "id": 279,
+    "question": "When there is another vehicle making a U turn on the road ahead or changing lane, the driver should overtake rapidly",
+    "options": {
+      "a": "I don't know",
+      "b": "Right",
+      "c": "Wrong",
+      "d": "None of them"
+    },
+    "correct_option": "c"
+  },
+  {
+    "id": 280,
+    "question": "When another vehicle starts overtaking your vehicle, you should speed up & don't allow him to over take",
+    "options": {
+      "a": "Right",
+      "b": "Wrong",
+      "c": "I don't know",
+      "d": "None of them"
+    },
+    "correct_option": "b"
+  },
+  {
+    "id": 281,
+    "question": "Before a vehicle enters a junction, the driver should reduce speed, observe and make sure it is safe to do so",
+    "options": {
+      "a": "Right",
+      "b": "Wrong",
+      "c": "I don't know",
+      "d": "None of them"
+    },
+    "correct_option": "a"
+  },
+  {
+    "id": 282,
+    "question": "When passing an unmanned level crossing, the driver may speed up and pass if he sees no train is coming",
+    "options": {
+      "a": "Right",
+      "b": "Wrong",
+      "c": "I don't know",
+      "d": "None of them"
+    },
+    "correct_option": "b"
+  },
+  {
+    "id": 283,
+    "question": "Before a vehicle enters a roundabout, the driver should turn on the right indicator",
+    "options": {
+      "a": "Wrong",
+      "b": "Right",
+      "c": "I don't know",
+      "d": "None of them"
+    },
+    "correct_option": "a"
+  },
+  {
+    "id": 284,
+    "question": "If discovering pedestrians abruptly cross the road while driving, the driver should immediately reduce speed and evade",
+    "options": {
+      "a": "Right",
+      "b": "Wrong",
+      "c": "I don't know",
+      "d": "None of them"
+    },
+    "correct_option": "a"
+  },
+  {
+    "id": 285,
+    "question": "When animals abruptly cross a road, the driver should evade if it is safe for the passengers and goods in the vehicle",
+    "options": {
+      "a": "Right",
+      "b": "Wrong",
+      "c": "I don't know",
+      "d": "None of them"
+    },
+    "correct_option": "a"
+  },
+  {
+    "id": 286,
+    "question": "When animals cross a road and impede the traffic, the driver may continuously honk to drive them away",
+    "options": {
+      "a": "Wrong",
+      "b": "Right",
+      "c": "I don't know",
+      "d": "None of them"
+    },
+    "correct_option": "a"
+  },
+  {
+    "id": 287,
+    "question": "When discovering another vehicle running abnormally, the driver should voluntarily evade to avoid a traffic accident",
+    "options": {
+      "a": "Right",
+      "b": "Wrong",
+      "c": "I don't know",
+      "d": "None of them"
+    },
+    "correct_option": "a"
+  },
+  {
+    "id": 288,
+    "question": "When a pedestrian deliberately refuses to yield to the vehicle, the driver may continuously honk and pass",
+    "options": {
+      "a": "Wrong",
+      "b": "Right",
+      "c": "I don't know",
+      "d": "None of them"
+    },
+    "correct_option": "a"
+  },
+  {
+    "id": 289,
+    "question": "When a vehicle stops for a long time, the driver should select a car park to do so",
+    "options": {
+      "a": "Right",
+      "b": "Wrong",
+      "c": "I don't know",
+      "d": "None of them"
+    },
+    "correct_option": "a"
+  },
+  {
+    "id": 290,
+    "question": "When running on a motorway that has three lanes in the same direction, the motor car whose speed ranges between 90-120 kilometers per hour should use",
+    "options": {
+      "a": "The far left lane",
+      "b": "The middle lane",
+      "c": "The far right lane",
+      "d": "Any lane"
+    },
+    "correct_option": "b"
+  },
+  {
+    "id": 291,
+    "question": "When a vehicle runs on a motorway at the speed of 100 kilometers per hour, the safe distance is",
+    "options": {
+      "a": "50m",
+      "b": "100m",
+      "c": "110m",
+      "d": "120m"
+    },
+    "correct_option": "a"
+  },
+  {
+    "id": 292,
+    "question": "When driving on motorway and the driver fails to see the exit, he should",
+    "options": {
+      "a": "Reverse to the original place",
+      "b": "Continue to go ahead and find the next exit",
+      "c": "Immediately stop",
+      "d": "Make a U turn"
+    },
+    "correct_option": "b"
+  },
+  {
+    "id": 293,
+    "question": "When an accident has caused blocking on motorway, the vehicles may use the hard shoulder of the road",
+    "options": {
+      "a": "Wrong",
+      "b": "Right",
+      "c": "I don't know",
+      "d": "None of them"
+    },
+    "correct_option": "a"
+  },
+  {
+    "id": 294,
+    "question": "When a vehicle follows another vehicle on a mountain road, it should",
+    "options": {
+      "a": "Closely follow the vehicle in front",
+      "b": "Properly increase the safe distance",
+      "c": "Properly reduce the safe distance",
+      "d": "Try to find a chance to overtake"
+    },
+    "correct_option": "b"
+  },
+  {
+    "id": 295,
+    "question": "Continuously using the foot brake on a long downhill road",
+    "options": {
+      "a": "Can shorten the engine's life",
+      "b": "Increases the driver's labor intensity",
+      "c": "Can drastically reduce the braking efficiency due to the rising temperature of the brake",
+      "d": "Can easily cause vehicle overturn"
+    },
+    "correct_option": "c"
+  },
+  {
+    "id": 296,
+    "question": "When a vehicle goes downhill, the driver should properly control the speed through gear changing",
+    "options": {
+      "a": "Right",
+      "b": "Wrong",
+      "c": "I don't know",
+      "d": "None of them"
+    },
+    "correct_option": "a"
+  },
+  {
+    "id": 297,
+    "question": "When a vehicle goes uphill on a mountain road, it should change to the lower gear in advance to maintain the rhythm",
+    "options": {
+      "a": "Right",
+      "b": "Wrong",
+      "c": "I don't know",
+      "d": "None of them"
+    },
+    "correct_option": "a"
+  },
+  {
+    "id": 298,
+    "question": "When passing a dangerous section of a mountain road, the driver should drive with care and avoid stopping",
+    "options": {
+      "a": "Right",
+      "b": "Wrong",
+      "c": "I don't know",
+      "d": "None of them"
+    },
+    "correct_option": "a"
+  },
+  {
+    "id": 299,
+    "question": "When a vehicle enters a two-way tunnel, the driver should turn on",
+    "options": {
+      "a": "The hazard lights",
+      "b": "The high beam light",
+      "c": "The fog light",
+      "d": "The low beam light"
+    },
+    "correct_option": "d"
+  },
+  {
+    "id": 300,
+    "question": "When driving at night on a road that has good lighting, the driver should use",
+    "options": {
+      "a": "The fog light",
+      "b": "The low beam light",
+      "c": "The high beam light",
+      "d": "The hazard lights"
+    },
+    "correct_option": "b"
+  },
+  {
+    "id": 301,
+    "question": "While crossing at night, in order to avoid vision distraction caused by light of the vehicle coming from the opposite direction, the driver should",
+    "options": {
+      "a": "Look to the right side and go forward at a lower speed",
+      "b": "Look to the left side and go forward at a lower speed",
+      "c": "Look to the right side and maintain the normal speed",
+      "d": "Look to the left side and go forward at a higher speed"
+    },
+    "correct_option": "b"
+  },
+  {
+    "id": 302,
+    "question": "When crossing a vehicle on a narrow road or bridge, the driver should use",
+    "options": {
+      "a": "The high beam light",
+      "b": "The low beam light",
+      "c": "The hazard lights",
+      "d": "The fog light"
+    },
+    "correct_option": "b"
+  },
+  {
+    "id": 303,
+    "question": "Driving at night is more difficult than the daytime because the driver's vision range becomes poorer at night",
+    "options": {
+      "a": "Right",
+      "b": "Wrong",
+      "c": "I don't know",
+      "d": "None of them"
+    },
+    "correct_option": "a"
+  },
+  {
+    "id": 304,
+    "question": "Driving at night does not cause boredom to the driver",
+    "options": {
+      "a": "Wrong",
+      "b": "Right",
+      "c": "I don't know",
+      "d": "None of them"
+    },
+    "correct_option": "a"
+  },
+  {
+    "id": 305,
+    "question": "While driving at night, if the vehicle coming in the opposite direction fails to turn off the high beam light, the driver should reduce speed",
+    "options": {
+      "a": "Wrong",
+      "b": "Right",
+      "c": "I don't know",
+      "d": "None of them"
+    },
+    "correct_option": "b"
+  },
+  {
+    "id": 306,
+    "question": "When vehicles cross each other on an icy road, the driver should _____ and firmly hold the steering wheel",
+    "options": {
+      "a": "Reduce speed when approaching",
+      "b": "Properly speed up",
+      "c": "Reduce speed in advance",
+      "d": "Maintain the speed"
+    },
+    "correct_option": "c"
+  },
+  {
+    "id": 307,
+    "question": "When driving on a mountain road covered by ice and snow, the vehicle behind should _____ if the vehicle in front is climbing a slope",
+    "options": {
+      "a": "Select a proper place to stop and climb after the vehicle in front has passed",
+      "b": "Rapidly overtake the vehicle in front",
+      "c": "Climb slowly",
+      "d": "Closely follow and climb"
+    },
+    "correct_option": "a"
+  },
+  {
+    "id": 308,
+    "question": "As the braking distance increases on a wet road in rain, the driver should increase the safe distance",
+    "options": {
+      "a": "Right",
+      "b": "Wrong",
+      "c": "I don't know",
+      "d": "None of them"
+    },
+    "correct_option": "a"
+  },
+  {
+    "id": 309,
+    "question": "When driving in fog, the driver should use fog lights and dim lights simultaneously",
+    "options": {
+      "a": "Right",
+      "b": "Wrong",
+      "c": "I don't know",
+      "d": "None of them"
+    },
+    "correct_option": "a"
+  },
+  {
+    "id": 310,
+    "question": "When driving in a heavy rain, the driver should control speed and try to avoid the sideways slipping",
+    "options": {
+      "a": "Right",
+      "b": "Wrong",
+      "c": "I don't know",
+      "d": "None of them"
+    },
+    "correct_option": "a"
+  },
+  {
+    "id": 311,
+    "question": "As thick fog reduces visibility, turning on the high beam light can increase the visibility",
+    "options": {
+      "a": "Wrong",
+      "b": "Right",
+      "c": "I don't know",
+      "d": "None of them"
+    },
+    "correct_option": "a"
+  },
+  {
+    "id": 312,
+    "question": "When driving on a road covered by ice and snow, the driver must reduce speed and increase the safe distance",
+    "options": {
+      "a": "Wrong",
+      "b": "Right",
+      "c": "I don't know",
+      "d": "None of them"
+    },
+    "correct_option": "b"
+  },
+  {
+    "id": 313,
+    "question": "When driving in snowfall, the driver should drive along the vehicle tracks if there are any",
+    "options": {
+      "a": "Right",
+      "b": "Wrong",
+      "c": "I don't know",
+      "d": "None of them"
+    },
+    "correct_option": "a"
+  },
+  {
+    "id": 314,
+    "question": "When driving in a foggy day, the driver should use the horn more so as to arouse the attention of the opposite side",
+    "options": {
+      "a": "Right",
+      "b": "Wrong",
+      "c": "I don't know",
+      "d": "None of them"
+    },
+    "correct_option": "a"
+  },
+  {
+    "id": 315,
+    "question": "When a vehicle moves across the water, its braking efficiency does not change",
+    "options": {
+      "a": "Wrong",
+      "b": "Right",
+      "c": "I don't know",
+      "d": "None of them"
+    },
+    "correct_option": "a"
+  },
+  {
+    "id": 316,
+    "question": "On a rear tyre burst, the driver should",
+    "options": {
+      "a": "Swiftly turn the steering wheel to adjust",
+      "b": "Firmly hold the steering wheel with both hands",
+      "c": "Swiftly turn the steering wheel to the opposite direction",
+      "d": "Swiftly take braking measures"
+    },
+    "correct_option": "b"
+  },
+  {
+    "id": 317,
+    "question": "When the driver discovers that a tyre has got punctured, he should swiftly apply brake",
+    "options": {
+      "a": "Wrong",
+      "b": "Right",
+      "c": "I don't know",
+      "d": "None of them"
+    },
+    "correct_option": "a"
+  },
+  {
+    "id": 318,
+    "question": "When a moving vehicle encounters an emergency, the driver should turn to evade first and then brake",
+    "options": {
+      "a": "Right",
+      "b": "Wrong",
+      "c": "I don't know",
+      "d": "None of them"
+    },
+    "correct_option": "a"
+  },
+  {
+    "id": 319,
+    "question": "To avoid change of direction caused due to front tyre burst, the driver should firmly hold the steering wheel with both hands to ensure the vehicle goes straight",
+    "options": {
+      "a": "Wrong",
+      "b": "Right",
+      "c": "I don't know",
+      "d": "None of them"
+    },
+    "correct_option": "b"
+  },
+  {
+    "id": 320,
+    "question": "Driver should apply emergency brake to stop the vehicle after a tyre blowout",
+    "options": {
+      "a": "Wrong",
+      "b": "Right",
+      "c": "I don't know",
+      "d": "None of them"
+    },
+    "correct_option": "a"
+  },
+  {
+    "id": 321,
+    "question": "When the driver discovers that steering is stiff, the driver should",
+    "options": {
+      "a": "Reduce speed and stop the vehicle as soon as possible",
+      "b": "Stop at a safe place",
+      "c": "Continue to drive",
+      "d": "Identify the cause"
+    },
+    "correct_option": "a"
+  },
+  {
+    "id": 322,
+    "question": "If a moving vehicle has a steering failure, use of emergency brake can easily cause an overturn",
+    "options": {
+      "a": "Right",
+      "b": "Wrong",
+      "c": "I don't know",
+      "d": "None of them"
+    },
+    "correct_option": "a"
+  },
+  {
+    "id": 323,
+    "question": "Which type of road vehicle can easily be stopped at",
+    "options": {
+      "a": "Concrete road",
+      "b": "Muddy road",
+      "c": "Road covered by ice and snow",
+      "d": "Sand road"
+    },
+    "correct_option": "a"
+  },
+  {
+    "id": 324,
+    "question": "When there is a sudden braking failure, the driver should evade people first and things second when evading obstacles",
+    "options": {
+      "a": "Right",
+      "b": "Wrong",
+      "c": "I don't know",
+      "d": "None of them"
+    },
+    "correct_option": "a"
+  },
+  {
+    "id": 325,
+    "question": "After a braking failure occurs, the first thing for the driver to do is to control the direction of the vehicle before he manages to control the speed",
+    "options": {
+      "a": "Right",
+      "b": "Wrong",
+      "c": "I don't know",
+      "d": "None of them"
+    },
+    "correct_option": "a"
+  },
+  {
+    "id": 326,
+    "question": "When there is a sudden braking failure on a downhill road and there is no alternate to stop the vehicle, the driver should try to slow down the vehicle by colliding with the safeguard wall/guard rail of the road",
+    "options": {
+      "a": "Wrong",
+      "b": "Right",
+      "c": "I don't know",
+      "d": "None of them"
+    },
+    "correct_option": "b"
+  },
+  {
+    "id": 327,
+    "question": "The road surface on which side skidding can most easily occur is",
+    "options": {
+      "a": "A dry concrete road",
+      "b": "A road when rain begins",
+      "c": "A wet concrete road",
+      "d": "A road in a heavy rain"
+    },
+    "correct_option": "b"
+  },
+  {
+    "id": 328,
+    "question": "When a vehicle turns at an excessively high speed, it can easily skid sideways",
+    "options": {
+      "a": "Right",
+      "b": "Wrong",
+      "c": "I don't know",
+      "d": "None of them"
+    },
+    "correct_option": "a"
+  },
+  {
+    "id": 329,
+    "question": "Emergency braking on a muddy or slippery road can easily cause a side skid or even an overturn",
+    "options": {
+      "a": "Right",
+      "b": "Wrong",
+      "c": "I don't know",
+      "d": "None of them"
+    },
+    "correct_option": "a"
+  },
+  {
+    "id": 330,
+    "question": "When driving on an expressway in heavy rain, it is imperative to",
+    "options": {
+      "a": "Reduce speed",
+      "b": "Increase speed",
+      "c": "Install slide-proof devices",
+      "d": "Increase the tire pressure"
+    },
+    "correct_option": "a"
+  },
+  {
+    "id": 331,
+    "question": "When a vehicle stops in emergency on an expressway, the driver and the passengers should _____ and wait for rescue personnel",
+    "options": {
+      "a": "Stand at the roadside on the front right side of the vehicle",
+      "b": "Refrain from getting off the vehicle and walking around",
+      "c": "Stand at the side of the shoulder or emergency strip",
+      "d": "Swiftly move to the roadside outside the guardrail on the rear right side of the vehicle"
+    },
+    "correct_option": "b"
+  },
+  {
+    "id": 332,
+    "question": "Due to an abnormal situation on the motorway, the driver should select _____ for stopping",
+    "options": {
+      "a": "The ramp",
+      "b": "The acceleration lane",
+      "c": "The deceleration lane",
+      "d": "The service area"
+    },
+    "correct_option": "d"
+  },
+  {
+    "id": 333,
+    "question": "Making a sharp turn on an expressway can very easily cause a side skid or overturn",
+    "options": {
+      "a": "Wrong",
+      "b": "Right",
+      "c": "I don't know",
+      "d": "None of them"
+    },
+    "correct_option": "b"
+  },
+  {
+    "id": 334,
+    "question": "When a vehicle runs on an expressway in rain, the resistance between tyres and road becomes lesser which can cause side skid",
+    "options": {
+      "a": "Right",
+      "b": "Wrong",
+      "c": "I don't know",
+      "d": "None of them"
+    },
+    "correct_option": "a"
+  },
+  {
+    "id": 335,
+    "question": "When a vehicle runs on an expressway in rain, the speed should be reduced",
+    "options": {
+      "a": "Wrong",
+      "b": "Right",
+      "c": "I don't know",
+      "d": "None of them"
+    },
+    "correct_option": "b"
+  },
+  {
+    "id": 336,
+    "question": "While driving a vehicle on expressway in rain and driver needs to stop, he may stop the vehicle on the carriageway",
+    "options": {
+      "a": "I don't know",
+      "b": "Right",
+      "c": "Wrong",
+      "d": "None of them"
+    },
+    "correct_option": "c"
+  },
+  {
+    "id": 337,
+    "question": "When a vehicle running on an expressway is unable to leave the carriageway due to a trouble, the driver may conduct emergency repairs on the carriageway",
+    "options": {
+      "a": "Wrong",
+      "b": "Right",
+      "c": "I don't know",
+      "d": "None of them"
+    },
+    "correct_option": "a"
+  },
+  {
+    "id": 338,
+    "question": "Unless stopping due to obstacles or vehicle breakdown on an expressway, the vehicles are not allowed to stop for pick and drop or load/unload of goods",
+    "options": {
+      "a": "Right",
+      "b": "Wrong",
+      "c": "I don't know",
+      "d": "None of them"
+    },
+    "correct_option": "a"
+  },
+  {
+    "id": 339,
+    "question": "At the moment when a vehicle accidentally hits the guardrail of an expressway, the driver should swiftly steer in the opposite direction to evade",
+    "options": {
+      "a": "Right",
+      "b": "Wrong",
+      "c": "I don't know",
+      "d": "None of them"
+    },
+    "correct_option": "b"
+  },
+  {
+    "id": 340,
+    "question": "When a vehicle deviates from the normal direction due to side winds at the end of a tunnel, the driver should firmly hold the steering wheel",
+    "options": {
+      "a": "Wrong",
+      "b": "Right",
+      "c": "I don't know",
+      "d": "None of them"
+    },
+    "correct_option": "b"
+  },
+  {
+    "id": 341,
+    "question": "Use of helmet is mandatory for motorcyclist",
+    "options": {
+      "a": "Mandatory",
+      "b": "Unnecessary",
+      "c": "Not safe",
+      "d": "I don't know"
+    },
+    "correct_option": "a"
+  },
+  {
+    "id": 342,
+    "question": "When evading an emergency, the driver should be calm and stick to the principle of",
+    "options": {
+      "a": "Evading people first and objects later",
+      "b": "Evading vehicles first and objects later",
+      "c": "Evading vehicles first and people later",
+      "d": "Evading objects first and people later"
+    },
+    "correct_option": "a"
+  },
+  {
+    "id": 343,
+    "question": "When the engine coolant is unable to circulate, the engine will",
+    "options": {
+      "a": "Consume less fuel",
+      "b": "Be too cool",
+      "c": "Consume same amount of fuel",
+      "d": "Be too hot"
+    },
+    "correct_option": "d"
+  },
+  {
+    "id": 344,
+    "question": "Why is fastening seat belt mandatory while driving?",
+    "options": {
+      "a": "To avoid the punishment of the administrative department",
+      "b": "To fix the seating place",
+      "c": "To force the back against the chair",
+      "d": "To effectively protect the body when there is a collision or emergency braking"
+    },
+    "correct_option": "d"
+  },
+  {
+    "id": 345,
+    "question": "When a vehicle equipped with safety bags is on the road, the passenger in the front seat",
+    "options": {
+      "a": "Should fasten seat belt",
+      "b": "Do not necessarily buckle up",
+      "c": "May or may not buckle up",
+      "d": "Should use the hand to hold the safety belt"
+    },
+    "correct_option": "a"
+  },
+  {
+    "id": 346,
+    "question": "Motor vehicles are not allowed to overtake at the junction",
+    "options": {
+      "a": "Wrong",
+      "b": "Right",
+      "c": "I don't know",
+      "d": "None of them"
+    },
+    "correct_option": "b"
+  },
+  {
+    "id": 347,
+    "question": "Motor vehicles should pass the junction according to the traffic signals",
+    "options": {
+      "a": "Wrong",
+      "b": "Right",
+      "c": "I don't know",
+      "d": "None of them"
+    },
+    "correct_option": "b"
+  },
+  {
+    "id": 348,
+    "question": "When a motor vehicle temporarily stops on the road, it should not obstruct the flow of other vehicles and pedestrians",
+    "options": {
+      "a": "Right",
+      "b": "Wrong",
+      "c": "I don't know",
+      "d": "None of them"
+    },
+    "correct_option": "a"
+  },
+  {
+    "id": 349,
+    "question": "Can you proceed on flashing amber light?",
+    "options": {
+      "a": "Only when crossing is safe",
+      "b": "Always",
+      "c": "No",
+      "d": "All of above"
+    },
+    "correct_option": "a"
+  },
+  {
+    "id": 350,
+    "question": "Are you allowed to park a vehicle on footpath?",
+    "options": {
+      "a": "No",
+      "b": "Yes if it is Public Service Vehicle",
+      "c": "Yes",
+      "d": "I don't know"
+    },
+    "correct_option": "a"
+  }
+]
